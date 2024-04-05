@@ -4,6 +4,10 @@ The original data was pulled from the [Google Sheet](https://docs.google.com/spr
 
 The image URLs are all scraped from the [BG3 Wiki](https://bg3.wiki/)
 
+## Script
+
+The Python script reads the CSV files and scrapes the Wiki, gathering the image URLs and adds the record to the MonogoDB collection _items_
+
 ## JSON 
 
 The JSON is a dump from Mongodb, which is why you'll see the *_id* field. An example is provided
