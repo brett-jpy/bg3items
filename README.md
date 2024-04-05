@@ -9,6 +9,7 @@ The image URLs are all scraped from the [BG3 Wiki](https://bg3.wiki/)
 The JSON is a dump from Mongodb, which is why you'll see the *_id* field. An example is provided
 
 ```json
+{
   "_id": {
     "$oid": "6610549f057521705c7bd942"
   },
