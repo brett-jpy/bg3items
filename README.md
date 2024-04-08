@@ -12,13 +12,11 @@ If you want just the JSON, [it can be found here](https://raw.githubusercontent.
 * Python Flask: Web Framework
 * Python Gunicorn: WSGI HTTP Server
 
-## Github Project
-
-I have the JSON and creation script on [Github](https://github.com/brettjouwstra/bg3items/tree/main)
-
 ## Design
 
 ### Colors
+
+#### Items
 
 * Common `#be6d26`
 * Uncommon `#01b538`
@@ -27,6 +25,7 @@ I have the JSON and creation script on [Github](https://github.com/brettjouwstra
 * Legendary `#b77a20`
 * Story Item `#ff5901`
 
+#### App
 * Dark Grey `#1b1b1d`
 * Blue Grey `#292d3e`
 
