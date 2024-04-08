@@ -1,0 +1,54 @@
+.slow  .toggle-group { transition: left 0.7s; -webkit-transition: left 0.7s; }
+.tggle-bar {
+   margin-top: 15px;
+   width: 100%;
+   display: flex;
+   position: relative;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.item-response {
+    margin-top: 15px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card {
+    margin-left: 7px;
+    margin-right: 7px;
+}
+.togHold {
+    margin-left: 15px;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    text-align: center;
+}
+.spacer {
+    margin-left: 50px;
+}
+label {
+    color: white;
+}
+#act1, #act2, #act3, #weapons, #jewelry, #armour {
+    accent-color: #292d3e;
+}
+#uncommon {
+    accent-color: #01b538;
+}
+#rare {
+    accent-color: #0bbfff;
+}
+#veryrare {
+    accent-color: #cf017b;
+}
+#legendary {
+    accent-color: #b77a20;
+}
+.btn-custom {
+    background-color: #292d3e;
+    color: white;
+}

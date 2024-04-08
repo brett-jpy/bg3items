@@ -1,0 +1,22 @@
+body {
+    background-color: #1b1b1d;
+    overflow: hidden;
+}
+
+.navbar {
+    background-color: #292d3e;
+}
+
+/* Buttons */
+.uncommon {
+    color: #01b538;
+}
+.rare {
+    color: #0bbfff;
+}
+.veryrare {
+    color: #cf017b;
+}
+.legendary {
+    color: #b77a20;
+}

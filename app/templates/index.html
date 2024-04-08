@@ -1,0 +1,117 @@
+{% extends "helpers/_base.html" %}
+
+{% block head %}
+{{super()}}
+<link href="/static/css/index.css" rel="stylesheet" />
+{% endblock %}
+
+{% block content %}
+
+<div class="col-12">
+    <div class="tggle-bar">
+
+        <div class="form-check form-check-inline">
+
+            <div class="togHold">
+                <div class="form-check form-check-inline">
+                    <input id="act1"  data-act="act1" class="form-check-input" type="checkbox" value="Act 1" onclick="actCheck('act1')">
+                    <label class="form-check-label" for="act1">Act 1</label>
+                </div>
+            </div>
+
+            <div class="togHold">
+                <div class="form-check form-check-inline">
+                    <input id="act2"  data-act="act2" class="form-check-input" type="checkbox" value="Act 2" onclick="actCheck('act2')">
+                    <label class="form-check-label" for="act2">Act 2</label>
+                </div>
+            </div>
+
+            <div class="togHold">
+                <div class="form-check form-check-inline">
+                    <input id="act3"  data-act="act3" class="form-check-input" type="checkbox" value="Act 3" onclick="actCheck('act3')">
+                    <label class="form-check-label" for="act3">Act 3</label>
+                </div>
+            </div>
+
+            <div class="spacer">
+
+            </div>
+
+            <div class="togHold">
+                <div class="form-check form-check-inline">
+                    <input id="uncommon"  data-rarity="uncommon" class="form-check-input" type="checkbox" value="Uncommon" onclick="rarityCheck('uncommon')">
+                    <label class="form-check-label" for="uncommon">Uncommon</label>
+                </div>
+            </div>
+
+            <div class="togHold">
+                <div class="form-check form-check-inline">
+                    <input id="rare"  data-rarity="rare" class="form-check-input" type="checkbox" value="Rare" onclick="rarityCheck('rare')">
+                    <label class="form-check-label" for="rare">Rare</label>
+                </div>
+            </div>   
+            
+            <div class="togHold">
+                <div class="form-check form-check-inline">
+                    <input id="veryrare"  data-rarity="veryrare" class="form-check-input" type="checkbox" value="Very Rare" onclick="rarityCheck('veryrare')">
+                    <label class="form-check-label" for="veryrare">Very Rare</label>
+                </div>
+            </div>         
+
+            <div class="togHold">
+                <div class="form-check form-check-inline">
+                    <input id="legendary"  data-rarity="legendary" class="form-check-input" type="checkbox" value="Legendary" onclick="rarityCheck('legendary')">
+                    <label class="form-check-label" for="legendary">Legendary</label>
+                </div>
+            </div>         
+
+
+            <div class="spacer">
+
+            </div>
+
+
+            <div class="togHold">
+                <div class="form-check form-check-inline">
+                    <input id="jewelry"  data-items="jewelry" class="form-check-input" type="checkbox" value="Jewelry" onclick="itemCheck('jewelry')">
+                    <label class="form-check-label" for="jewelry">Jewelry</label>
+                </div>
+            </div>                    
+
+            <div class="togHold">
+                <div class="form-check form-check-inline">
+                    <input id="armour"  data-items="armour" class="form-check-input" type="checkbox" value="Armour" onclick="itemCheck('armour')">
+                    <label class="form-check-label" for="armour">Armour</label>
+                </div>
+            </div>                    
+
+            <div class="togHold">
+                <div class="form-check form-check-inline">
+                    <input id="weapons"  data-items="weapons" class="form-check-input" type="checkbox" value="Weapons" onclick="itemCheck('weapons')">
+                    <label class="form-check-label" for="weapons">Weapons</label>
+                </div>
+            </div>        
+
+            <div class="spacer">
+                <button type="button" class="btn btn-custom" onclick="itemSearch()">Search</button>
+            </div>
+
+        </div>
+
+    </div> 
+
+
+    <div class="item-response" id="item-response">
+          
+
+    </div>
+</div>
+
+{% endblock %}
+
+
+{% block script %}
+{{super()}}
+<script src="/static/js/checkboxes.js"></script>
+<script src="/static/js/search.js"></script>
+{% endblock %}
