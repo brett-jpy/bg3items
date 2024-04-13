@@ -47,6 +47,3 @@ def search():
 def query():
     data = request.args.get("term")
     return jsonify(text_index(data))
-
-if __name__=="__main__":
-    app.run(debug=True)

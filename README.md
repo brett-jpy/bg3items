@@ -44,10 +44,24 @@ Mongo collection is hosted on [Atlas](https://cloud.mongodb.com). The connection
 
 ### Running Without Docker
 
+#### Linux
+
 1. cd to the the project folder
 2. `pip install -r requirements.txt`
 3. `gunicorn app:app`
    1. Accessible on localhost on port 8000 by default. You can change using `gunicorn -b 0.0.0.0:8010 app:app`.  
+
+#### Windows
+
+1. Add the following to the bottom of _app.py_
+
+```py
+if __name__=="__main__":
+    app.run(debug=True)
+```
+
+2. cd to the project directory/app
+3. Run `python app.py`
 
 ## Use
 
