@@ -9,7 +9,7 @@ client = MongoClient("192.168.1.5:27017")
 database = client['BG3']
 coll = database['items']
 
-root = r"C:\Users\Brett\Downloads\bg3_item_app\unused\csvs"
+root = r"C:\Users\Brett\Sync\projects\bg3-item-app\unused\csvs"
 
 # Image Scraper from Wiki
 def item_image(item, site):

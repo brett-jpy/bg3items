@@ -16,6 +16,14 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+.location-select {
+    margin-top: 15px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 .card {
     margin-left: 7px;
     margin-right: 7px;

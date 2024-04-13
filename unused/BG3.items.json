@@ -1,13 +1,13 @@
 [{
   "_id": {
-    "$oid": "6610549f057521705c7bd942"
+    "$oid": "661a2b6eaa68a93779e61e96"
   },
   "Name": "Absolute's Talisman",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Dropped as loot by Priestess Gut. 🎁",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Dropped as loot by Priestess Gut. 🎁",
   "Description": "Advantage on Death Saving Throws if you bear the Absolute's Brand\nCast Aid once per Long Rest. This casting of Aid only affects the caster.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Absolute's_Talisman",
@@ -15,14 +15,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd943"
+    "$oid": "661a2b6eaa68a93779e61e97"
   },
   "Name": "Absolute's Warboard",
   "Rarity": "Uncommon",
   "Type": "Shield",
   "Properties": "🛡️ + 2 AC",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Dropped as loot by Priestess Gut. 🎁",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Dropped as loot by Priestess Gut. 🎁",
   "Description": "Gain a +1 bonus to Saving Throws if you bear the Absolute's Brand.\nCast Heroism once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Absolute's_Warboard",
@@ -30,14 +30,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd944"
+    "$oid": "661a2b6eaa68a93779e61e98"
   },
   "Name": "Abyss Beckoners",
   "Rarity": "Very Rare",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Zhentarim Hideout",
-  "Location": "Inside a locked chest in a cell.",
+  "Location": "Zhentarim Hideout",
+  "LocationDesc": "Inside a locked chest in a cell.",
   "Description": "Your summoned creatures have resistance to all damage except Psychic.\nAt the start of your summoned creature's turn, it must succeed a Wisdom Saving Throw or be driven Mad.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Abyss_Beckoners",
@@ -45,14 +45,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd945"
+    "$oid": "661a2b6eaa68a93779e61e99"
   },
   "Name": "Adamantine Longsword",
   "Rarity": "Rare",
   "Type": "Longsword",
   "Properties": "1h 🔪(1d8)\n2h 🔪(1d10)",
-  "Act Area": "The Adamantine Forge",
-  "Location": "Forged in The Adamantine Forge with a Longsword Mould and Mithral Ore.",
+  "Location": "The Adamantine Forge",
+  "LocationDesc": "Forged in The Adamantine Forge with a Longsword Mould and Mithral Ore.",
   "Description": "This weapon ignores Resistance to Slashing damage.\nIf you hit an object with this weapon, the hit is always Critical.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Adamantine_Longsword",
@@ -60,14 +60,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd946"
+    "$oid": "661a2b6eaa68a93779e61e9a"
   },
   "Name": "Adamantine Mace",
   "Rarity": "Rare",
   "Type": "Mace",
   "Properties": "1h 🔨(1d6)",
-  "Act Area": "The Adamantine Forge",
-  "Location": "Forged in The Adamantine Forge with a Mace Mould and Mithral Ore.",
+  "Location": "The Adamantine Forge",
+  "LocationDesc": "Forged in The Adamantine Forge with a Mace Mould and Mithral Ore.",
   "Description": "This weapon ignores Resistance to Bludgeoning damage. \nIf you hit an object with this weapon, the hit is always Critical.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Adamantine_Mace",
@@ -75,14 +75,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd947"
+    "$oid": "661a2b6eaa68a93779e61e9b"
   },
   "Name": "Adamantine Scale Mail",
   "Rarity": "Very Rare",
   "Type": "Medium Armour",
   "Properties": "🛡️ 16 AC",
-  "Act Area": "The Adamantine Forge",
-  "Location": "Forged in The Adamantine Forge with a Scale Mail Mould and Mithral Ore.",
+  "Location": "The Adamantine Forge",
+  "LocationDesc": "Forged in The Adamantine Forge with a Scale Mail Mould and Mithral Ore.",
   "Description": "Reduce all incoming damage by 1.\nWhen a creature hits you with a melee attack, you send it Reeling for 2 turns.\nAttackers can't land Critical Hits on you.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Adamantine_Scale_Mail",
@@ -90,14 +90,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd948"
+    "$oid": "661a2b6eaa68a93779e61e9c"
   },
   "Name": "Adamantine Scimitar",
   "Rarity": "Rare",
   "Type": "Scimitar",
   "Properties": "1h 🔪(1d6)",
-  "Act Area": "The Adamantine Forge",
-  "Location": "Forged in The Adamantine Forge with a Scimitar Mould and Mithral Ore.",
+  "Location": "The Adamantine Forge",
+  "LocationDesc": "Forged in The Adamantine Forge with a Scimitar Mould and Mithral Ore.",
   "Description": "This weapon ignores Resistance to Slashing damage.\nIf you hit an object with this weapon, the hit is always Critical.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Adamantine_Scimitar",
@@ -105,14 +105,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd949"
+    "$oid": "661a2b6eaa68a93779e61e9d"
   },
   "Name": "Adamantine Shield",
   "Rarity": "Rare",
   "Type": "Shield",
   "Properties": "🛡️ + 2 AC",
-  "Act Area": "The Adamantine Forge",
-  "Location": "Forged in The Adamantine Forge with a Shield Mould and Mithral Ore.",
+  "Location": "The Adamantine Forge",
+  "LocationDesc": "Forged in The Adamantine Forge with a Shield Mould and Mithral Ore.",
   "Description": "When a creature misses a melee attack against you, you send it Reeling for 2 turns.\nWhen you are hit with a melee attack, you can use your reaction to knock them Prone unless they succeed a Dexterity Saving Throw.\nAttackers can't land Critical Hits on you.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Adamantine_Shield",
@@ -120,14 +120,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd94a"
+    "$oid": "661a2b6eaa68a93779e61e9e"
   },
   "Name": "Adamantine Splint Armour",
   "Rarity": "Very Rare",
   "Type": "Heavy Armour",
   "Properties": "🛡️ 18 AC",
-  "Act Area": "The Adamantine Forge",
-  "Location": "Forged in The Adamantine Forge with a Splint Mould and Mithral Ore.",
+  "Location": "The Adamantine Forge",
+  "LocationDesc": "Forged in The Adamantine Forge with a Splint Mould and Mithral Ore.",
   "Description": "Reduce all incoming damage by 2.\nWhen a creature hits you with a melee attack, you send it Reeling for 3 turns.\nAttackers can't land Critical Hits on you.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Adamantine_Splint_Armour",
@@ -135,14 +135,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd94b"
+    "$oid": "661a2b6eaa68a93779e61e9f"
   },
   "Name": "Amulet of Branding",
   "Rarity": "Rare",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Dropped as loot by A'jak'nir. 🎁",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Dropped as loot by A'jak'nir. 🎁",
   "Description": "Cast Brand the Weak once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Amulet_of_Branding",
@@ -150,14 +150,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd94c"
+    "$oid": "661a2b6eaa68a93779e61ea0"
   },
   "Name": "Amulet of Elemental Torment",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Goblin Camp",
-  "Location": "Sold by Grat the Trader. 💰",
+  "Location": "Goblin Camp",
+  "LocationDesc": "Sold by Grat the Trader. 💰",
   "Description": "When you stand on certain surfaces and cast a spell that deals damage, the target also suffers the surface's effects.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Amulet_of_Elemental_Torment",
@@ -165,14 +165,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd94d"
+    "$oid": "661a2b6eaa68a93779e61ea1"
   },
   "Name": "Amulet of Misty Step",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Shattered Sanctum",
-  "Location": "In a gilded chest behind the ogre Polma.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "In a gilded chest behind the ogre Polma.",
   "Description": "Cast Misty Step once per Short Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Amulet_of_Misty_Step",
@@ -180,14 +180,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd94e"
+    "$oid": "661a2b6eaa68a93779e61ea2"
   },
   "Name": "Amulet of Restoration",
   "Rarity": "Rare",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Derryth Bonecloak. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Derryth Bonecloak. 💰",
   "Description": "Cast Healing Word once per Long Rest.\nCast Mass Healing Word once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Amulet_of_Restoration",
@@ -195,14 +195,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd94f"
+    "$oid": "661a2b6eaa68a93779e61ea3"
   },
   "Name": "Amulet of Selûne's Chosen",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Found in Dror Ragzlin's treasure pile.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Found in Dror Ragzlin's treasure pile.",
   "Description": "Cast Selûne's Dream once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Amulet_of_Selûne's_Chosen",
@@ -210,14 +210,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd950"
+    "$oid": "661a2b6eaa68a93779e61ea4"
   },
   "Name": "Amulet of Silvanus",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Hidden under a rock that must be moved, near Ormn the bear.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Hidden under a rock that must be moved, near Ormn the bear.",
   "Description": "Cast Lesser Restoration once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Amulet_of_Silvanus",
@@ -225,14 +225,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd951"
+    "$oid": "661a2b6eaa68a93779e61ea5"
   },
   "Name": "Amulet of the Unworthy",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Underdark",
-  "Location": "Dropped as loot by a Minotaur. 🎁",
+  "Location": "Underdark",
+  "LocationDesc": "Dropped as loot by a Minotaur. 🎁",
   "Description": "Resistance to Slashing damage.\nVulnerability to Bludgeoning damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Amulet_of_the_Unworthy",
@@ -240,14 +240,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd952"
+    "$oid": "661a2b6eaa68a93779e61ea6"
   },
   "Name": "Armour of Uninhibited Kushigo",
   "Rarity": "Uncommon",
   "Type": "Clothing",
   "Properties": "🛡️ 10 AC",
-  "Act Area": "Grymforge",
-  "Location": "Optional Quest Reward by Sergeant Thrinn.",
+  "Location": "Grymforge",
+  "LocationDesc": "Optional Quest Reward by Sergeant Thrinn.",
   "Description": "While Patient Defence is active, you can use your Reaction to make an unarmed strike against any attacker that misses.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Armour_of_Uninhibited_Kushigo",
@@ -255,14 +255,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd953"
+    "$oid": "661a2b6eaa68a93779e61ea7"
   },
   "Name": "Assassin's Touch",
   "Rarity": "Uncommon",
   "Type": "Dagger",
   "Properties": "1h 🏹(1d4 + 1)",
-  "Act Area": "Druid Grove",
-  "Location": "Quest Reward by Sazza.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Quest Reward by Sazza.",
   "Description": "Deals an additional 💀(1d4) to creatures that are Knocked Out or Sleeping.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Assassin's_Touch",
@@ -270,14 +270,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd954"
+    "$oid": "661a2b6eaa68a93779e61ea8"
   },
   "Name": "Beastmaster's Chain",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Found in a chest in the Worg Pens.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Found in a chest in the Worg Pens.",
   "Description": "Cast Animal Friendship once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Beastmaster's_Chain",
@@ -285,14 +285,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd955"
+    "$oid": "661a2b6eaa68a93779e61ea9"
   },
   "Name": "Blazer of Benevolence",
   "Rarity": "Uncommon",
   "Type": "Light Armour",
   "Properties": "🛡️ 11 AC",
-  "Act Area": "Goblin Camp",
-  "Location": "Quest Reward by Volo.",
+  "Location": "Goblin Camp",
+  "LocationDesc": "Quest Reward by Volo.",
   "Description": "Gain ❤️(4) Temporary Hit Points when you inspire an ally using Bardic Inspiration.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Blazer_of_Benevolence",
@@ -300,14 +300,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd956"
+    "$oid": "661a2b6eaa68a93779e61eaa"
   },
   "Name": "Blooded Greataxe",
   "Rarity": "Rare",
   "Type": "Greataxe",
   "Properties": "2h 🔪(1d12)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Sold by main Merchants, item in Merchant Item Pool. 💰",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Sold by main Merchants, item in Merchant Item Pool. 💰",
   "Description": "Deal an additional 🔪(1d4) while you're at 50% Hit Points or less.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Blooded_Greataxe",
@@ -315,14 +315,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd957"
+    "$oid": "661a2b6eaa68a93779e61eab"
   },
   "Name": "Bloodguzzler Garb",
   "Rarity": "Uncommon",
   "Type": "Clothing",
   "Properties": "🛡️ 10 AC",
-  "Act Area": "Underdark",
-  "Location": "Dropped as loot by Bulette. 🎁",
+  "Location": "Underdark",
+  "LocationDesc": "Dropped as loot by Bulette. 🎁",
   "Description": "Gain Wrath for 1 turn whenever you are hit.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Bloodguzzler_Garb",
@@ -330,14 +330,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd958"
+    "$oid": "661a2b6eaa68a93779e61eac"
   },
   "Name": "Boots of Aid and Comfort",
   "Rarity": "Uncommon",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Goblin Camp",
-  "Location": "Sold by Grat the Trader. 💰",
+  "Location": "Goblin Camp",
+  "LocationDesc": "Sold by Grat the Trader. 💰",
   "Description": "When you heal a creature, they gain an additional ❤️(3) Temporary Hit Points.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort",
@@ -345,14 +345,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd959"
+    "$oid": "661a2b6eaa68a93779e61ead"
   },
   "Name": "Boots of Elemental Momentum",
   "Rarity": "Uncommon",
   "Type": "Medium Boots",
   "Properties": "",
-  "Act Area": "Rosymorn Monastery Trail",
-  "Location": "Sold by Lady Esther. 💰",
+  "Location": "Rosymorn Monastery Trail",
+  "LocationDesc": "Sold by Lady Esther. 💰",
   "Description": "When you deal Acid, Cold, Fire, Lightning or Thunder damage with Spells or Cantrips, gain Momentum for 2 turns.\nAthletics +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Boots_of_Elemental_Momentum",
@@ -360,14 +360,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd95a"
+    "$oid": "661a2b6eaa68a93779e61eae"
   },
   "Name": "Boots of Genial Striding",
   "Rarity": "Rare",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Blurg. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Blurg. 💰",
   "Description": "Your Movement Speed is unimpeded by Difficult Terrain.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Boots_of_Genial_Striding",
@@ -375,14 +375,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd95b"
+    "$oid": "661a2b6eaa68a93779e61eaf"
   },
   "Name": "Boots of Speed",
   "Rarity": "Rare",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Cure the duergar poison affecting Thulla, she will give you the boots as a reward.",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Cure the duergar poison affecting Thulla, she will give you the boots as a reward.",
   "Description": "Cast Click Heels",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Boots_of_Speed",
@@ -390,14 +390,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd95c"
+    "$oid": "661a2b6eaa68a93779e61eb0"
   },
   "Name": "Boots of Stormy Clamour",
   "Rarity": "Uncommon",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Omeluum. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Omeluum. 💰",
   "Description": "When you inflict a condition on a creature, you also inflict Reverberation for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Boots_of_Stormy_Clamour",
@@ -405,14 +405,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd95d"
+    "$oid": "661a2b6eaa68a93779e61eb1"
   },
   "Name": "Boots of Striding",
   "Rarity": "Uncommon",
   "Type": "Medium Boots",
   "Properties": "",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Dropped as loot by Minthara. 🎁",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Dropped as loot by Minthara. 🎁",
   "Description": "When you cast a spell that requires Concentration, you gain Momentum for 2 turns. \nWhile you are concentrating, you cannot be pushed or get knocked Prone.\nAthletics +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Boots_of_Striding",
@@ -420,14 +420,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd95e"
+    "$oid": "661a2b6eaa68a93779e61eb2"
   },
   "Name": "Bow of Awareness",
   "Rarity": "Uncommon",
   "Type": "Shortbow",
   "Properties": "2h 🏹(1d6 + 1)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Sold by Roah Moonglow. 💰",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Sold by Roah Moonglow. 💰",
   "Description": "Gain a +1 bonus to Initiative Rolls.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Bow_of_Awareness",
@@ -435,14 +435,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd95f"
+    "$oid": "661a2b6eaa68a93779e61eb3"
   },
   "Name": "Bow of the Banshee",
   "Rarity": "Rare",
   "Type": "Shortbow",
   "Properties": "2h 🏹(1d6 + 1)",
-  "Act Area": "Grymforge",
-  "Location": "Dropped as loot or Sold by Corsair Greymon. 💰 🎁",
+  "Location": "Grymforge",
+  "LocationDesc": "Dropped as loot or Sold by Corsair Greymon. 💰 🎁",
   "Description": "Gain 🎲(1d4) bonus to attack and damage rolls against Frightened creatures.\nWhen you a hit with this weapon, possibly inflict Frightened.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Bow_of_the_Banshee",
@@ -450,14 +450,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd960"
+    "$oid": "661a2b6eaa68a93779e61eb4"
   },
   "Name": "Bracers of Defence",
   "Rarity": "Rare",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Blighted Village",
-  "Location": "Found in a gilded chest in the Apothecary's Cellar beneath the Blighted Village.",
+  "Location": "Blighted Village",
+  "LocationDesc": "Found in a gilded chest in the Apothecary's Cellar beneath the Blighted Village.",
   "Description": "Gain a 🛡️ + 2 AC when not wearing armour or holding a shield.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Bracers_of_Defence",
@@ -465,14 +465,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd961"
+    "$oid": "661a2b6eaa68a93779e61eb5"
   },
   "Name": "Bracing Band",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Grymforge",
-  "Location": "Optional Quest Reward by Sergeant Thrinn.",
+  "Location": "Grymforge",
+  "LocationDesc": "Optional Quest Reward by Sergeant Thrinn.",
   "Description": "Gain 🛡️ + 1 AC until your next turn after shoving an enemy.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Bracing_Band",
@@ -480,14 +480,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd962"
+    "$oid": "661a2b6eaa68a93779e61eb6"
   },
   "Name": "Broodmother's Revenge",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Dropped as loot by Kagha. 🎁",
+  "Location": "Druid Grove",
+  "LocationDesc": "Dropped as loot by Kagha. 🎁",
   "Description": "When you are healed, your weapon deals an additional 🐍(1d4) for 3 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Broodmother's_Revenge",
@@ -495,14 +495,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd963"
+    "$oid": "661a2b6eaa68a93779e61eb7"
   },
   "Name": "Cacophony",
   "Rarity": "Rare",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6 + 1) + ⛈️(1d4)\n2h 🔨(1d8 + 1) + ⛈️(1d4)",
-  "Act Area": "Rosymorn Monastery Trail",
-  "Location": "Sold by Lady Esther. 💰",
+  "Location": "Rosymorn Monastery Trail",
+  "LocationDesc": "Sold by Lady Esther. 💰",
   "Description": "Cast Thunderous Smite once per Short Rest",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Cacophony",
@@ -510,14 +510,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd964"
+    "$oid": "661a2b6eaa68a93779e61eb8"
   },
   "Name": "Cap of Curing",
   "Rarity": "Uncommon",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Found in a gilded chest behind a pillar near to where Alfira is composing her song.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Found in a gilded chest behind a pillar near to where Alfira is composing her song.",
   "Description": "When you inspire an ally using Bardic Inspiration, they regain ❤️(1d6) Hit Points.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Cap_of_Curing",
@@ -525,14 +525,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd965"
+    "$oid": "661a2b6eaa68a93779e61eb9"
   },
   "Name": "Cap of Wrath",
   "Rarity": "Rare",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Grymforge",
-  "Location": "Dropped as loot by Thudd. 🎁",
+  "Location": "Grymforge",
+  "LocationDesc": "Dropped as loot by Thudd. 🎁",
   "Description": "If you start your turn with 50% Hit Points or less, gain Wrath for 2 turn.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Cap_of_Wrath",
@@ -540,14 +540,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd966"
+    "$oid": "661a2b6eaa68a93779e61eba"
   },
   "Name": "Caustic Band",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Derryth Bonecloak. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Derryth Bonecloak. 💰",
   "Description": "Deal an additional ⚗️(2) with weapon attacks.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Caustic_Band",
@@ -555,14 +555,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd967"
+    "$oid": "661a2b6eaa68a93779e61ebb"
   },
   "Name": "Ceremonial Longsword",
   "Rarity": "Uncommon",
   "Type": "Longsword",
   "Properties": "1h 🔪(1d8 + 1)\n2h 🔪(1d10 + 1)",
-  "Act Area": "Rosymorn Monastery",
-  "Location": "Found on the north-western pedestal in the Dawnmasters Memorial.",
+  "Location": "Rosymorn Monastery",
+  "LocationDesc": "Found on the north-western pedestal in the Dawnmasters Memorial.",
   "Description": "SPOILER IN NOTE",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ceremonial_Longsword",
@@ -570,14 +570,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd968"
+    "$oid": "661a2b6eaa68a93779e61ebc"
   },
   "Name": "Ceremonial Battleaxe",
   "Rarity": "Uncommon",
   "Type": "Battleaxe",
   "Properties": "1h 🔪(1d8 + 1)\n2h 🔪(1d10 + 1)",
-  "Act Area": "Rosymorn Monastery",
-  "Location": "Found in the one of the dormitories in the Rosymorn Monastery guarded by a Guardian of Faith.",
+  "Location": "Rosymorn Monastery",
+  "LocationDesc": "Found in the one of the dormitories in the Rosymorn Monastery guarded by a Guardian of Faith.",
   "Description": "SPOILER IN NOTE",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ceremonial_Battleaxe",
@@ -585,14 +585,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd969"
+    "$oid": "661a2b6eaa68a93779e61ebd"
   },
   "Name": "Ceremonial Mace",
   "Rarity": "Uncommon",
   "Type": "Mace",
   "Properties": "1h 🔨(1d6 + 1)",
-  "Act Area": "Rosymorn Monastery",
-  "Location": "Dropped as loot by a random kobald in the Firewine storage room. 🎁",
+  "Location": "Rosymorn Monastery",
+  "LocationDesc": "Dropped as loot by a random kobald in the Firewine storage room. 🎁",
   "Description": "SPOILER IN NOTE",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ceremonial_Mace",
@@ -600,14 +600,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd96a"
+    "$oid": "661a2b6eaa68a93779e61ebe"
   },
   "Name": "Ceremonial Warhammer",
   "Rarity": "Uncommon",
   "Type": "Warhammer",
   "Properties": "1h 🔨(1d8 + 1)\n2h 🔨(1d10 + 1)",
-  "Act Area": "Rosymorn Monastery",
-  "Location": "Found in the Giant Eagle's nest.",
+  "Location": "Rosymorn Monastery",
+  "LocationDesc": "Found in the Giant Eagle's nest.",
   "Description": "SPOILER IN NOTE",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ceremonial_Warhammer",
@@ -615,14 +615,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd96b"
+    "$oid": "661a2b6eaa68a93779e61ebf"
   },
   "Name": "Champion's Chain",
   "Rarity": "Rare",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Quest Reward by Glut.",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Quest Reward by Glut.",
   "Description": "Grant an ally a +2 bonus to Intimidation once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Champion's_Chain",
@@ -630,14 +630,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd96c"
+    "$oid": "661a2b6eaa68a93779e61ec0"
   },
   "Name": "Cinder Shoes",
   "Rarity": "Uncommon",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Blurg. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Blurg. 💰",
   "Description": "When you Burn an enemy, gain Heat for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Cinder_Shoes",
@@ -645,14 +645,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd96d"
+    "$oid": "661a2b6eaa68a93779e61ec1"
   },
   "Name": "Circlet of Blasting",
   "Rarity": "Rare",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Blurg. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Blurg. 💰",
   "Description": "Cast Scorching Ray once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Circlet_of_Blasting",
@@ -660,14 +660,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd96e"
+    "$oid": "661a2b6eaa68a93779e61ec2"
   },
   "Name": "Circlet of Psionic Revenge",
   "Rarity": "Rare",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Found inside a chest in Inquisitor's Chamber.",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Found inside a chest in Inquisitor's Chamber.",
   "Description": "When you succeed a Saving Throw, the enemy that caused the throw takes 👁️(1d4).\nGain a +1 bonus to Intelligence, Wisdom, and Charisma Saving Throws if you are Githyanki.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Circlet_of_Psionic_Revenge",
@@ -675,14 +675,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd96f"
+    "$oid": "661a2b6eaa68a93779e61ec3"
   },
   "Name": "Club of Hill Giant Strength",
   "Rarity": "Uncommon",
   "Type": "Club",
   "Properties": "1h 🔨(1d4)",
-  "Act Area": "Arcane Tower",
-  "Location": "Found by breaking the Stool of Hill Giant Strength on the highest floor of Arcane Tower, with Bernard. The stool is underneath the thatched roof section and is knocked over on its side.",
+  "Location": "Arcane Tower",
+  "LocationDesc": "Found by breaking the Stool of Hill Giant Strength on the highest floor of Arcane Tower, with Bernard. The stool is underneath the thatched roof section and is knocked over on its side.",
   "Description": "Increase Strength to 19.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Club_of_Hill_Giant_Strength",
@@ -690,14 +690,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd970"
+    "$oid": "661a2b6eaa68a93779e61ec4"
   },
   "Name": "Corellon's Grace",
   "Rarity": "Uncommon",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6)\n2h 🔨(1d8)",
-  "Act Area": "Riverside Teahouse",
-  "Location": "Dropped as loot or Sold by Aunty Ethel. 💰 🎁",
+  "Location": "Riverside Teahouse",
+  "LocationDesc": "Dropped as loot or Sold by Aunty Ethel. 💰 🎁",
   "Description": "Gain a +1 bonus to Unarmed Attack Rolls and damage.\nGain a +2 bonus to Saving Throws when not wearing armour.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Corellon's_Grace",
@@ -705,14 +705,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd971"
+    "$oid": "661a2b6eaa68a93779e61ec5"
   },
   "Name": "Corrosive Flail",
   "Rarity": "Rare",
   "Type": "Flail",
   "Properties": "1h 🔨(1d8 + 1)",
-  "Act Area": "Underdark",
-  "Location": "Sold by Derryth Bonecloak. 💰",
+  "Location": "Underdark",
+  "LocationDesc": "Sold by Derryth Bonecloak. 💰",
   "Description": "Gain Corrosive Strike weapon action.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Corrosive_Flail",
@@ -720,14 +720,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd972"
+    "$oid": "661a2b6eaa68a93779e61ec6"
   },
   "Name": "Creation's Echo",
   "Rarity": "Rare",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6)\n2h 🔨(1d8)",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Omeluum. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Omeluum. 💰",
   "Description": "When you deal Acid, Fire, Lightning, Radiant, or Necrotic damage, gain Resistance to that damage type for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Creation's_Echo",
@@ -735,14 +735,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd973"
+    "$oid": "661a2b6eaa68a93779e61ec7"
   },
   "Name": "Crossbow of Arcane Force",
   "Rarity": "Uncommon",
   "Type": "Heavy Crossbow",
   "Properties": "2h 🏹(1d10 + 1)",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Dropped as loot by Raider G'r'ath. 🎁",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Dropped as loot by Raider G'r'ath. 🎁",
   "Description": "Gain Arcane Ammunition weapon action.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Crossbow_of_Arcane_Force",
@@ -750,14 +750,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd974"
+    "$oid": "661a2b6eaa68a93779e61ec8"
   },
   "Name": "Crusher's Ring",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Goblin Camp",
-  "Location": "Dropped as loot by Crusher or steal it when he makes you kiss his foot. 🎁",
+  "Location": "Goblin Camp",
+  "LocationDesc": "Dropped as loot by Crusher or steal it when he makes you kiss his foot. 🎁",
   "Description": "Movement Speed increased by 3m / 10ft.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Crusher's_Ring",
@@ -765,14 +765,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd975"
+    "$oid": "661a2b6eaa68a93779e61ec9"
   },
   "Name": "Daredevil Gloves",
   "Rarity": "Rare",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Sold by A'jak'nir Jeera. 💰",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Sold by A'jak'nir Jeera. 💰",
   "Description": "Gain a +1 bonus to Spell Attack Rolls.\nYour Ranged Spell Attacks can be made as melee spell attacks when you are adjacent to a hostile creature.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Daredevil_Gloves",
@@ -780,14 +780,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd976"
+    "$oid": "661a2b6eaa68a93779e61eca"
   },
   "Name": "Dark Justiciar Mail",
   "Rarity": "Uncommon",
   "Type": "Medium Armour",
   "Properties": "🛡️ 13 AC",
-  "Act Area": "Grymforge",
-  "Location": "Looted from a skeleton north of the Underdark - Grymforge Ancient Rune Circle.\n\nLooted from a skeleton south of the Ancient Forge Ancient Rune Circle.",
+  "Location": "Grymforge",
+  "LocationDesc": "Looted from a skeleton north of the Underdark - Grymforge Ancient Rune Circle.\n\nLooted from a skeleton south of the Ancient Forge Ancient Rune Circle.",
   "Description": "Deal 💀(1d4) to attackers that hit you with a melee attack while you're obscured by shadow.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Dark_Justiciar_Mail",
@@ -795,14 +795,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd977"
+    "$oid": "661a2b6eaa68a93779e61ecb"
   },
   "Name": "Dark Justiciar Mask",
   "Rarity": "Uncommon",
   "Type": "Light Helmet",
   "Properties": "",
-  "Act Area": "Grymforge",
-  "Location": "Looted from a skeleton in Grymforge near the Ancient Forge Waypoint.",
+  "Location": "Grymforge",
+  "LocationDesc": "Looted from a skeleton in Grymforge near the Ancient Forge Waypoint.",
   "Description": "Intimidation +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Dark_Justiciar_Mask",
@@ -810,14 +810,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd978"
+    "$oid": "661a2b6eaa68a93779e61ecc"
   },
   "Name": "Deep Delver",
   "Rarity": "Uncommon",
   "Type": "War Pick",
   "Properties": "1h 🏹(1d8)",
-  "Act Area": "Grymforge",
-  "Location": "Dropped as loot by Elder Brithvar. 🎁",
+  "Location": "Grymforge",
+  "LocationDesc": "Dropped as loot by Elder Brithvar. 🎁",
   "Description": "Inflicts Shattered on hit. When attacking a Shattered target, deal an additional 🏹(1d4).",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Deep_Delver",
@@ -825,14 +825,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd979"
+    "$oid": "661a2b6eaa68a93779e61ecd"
   },
   "Name": "Defender Flail",
   "Rarity": "Rare",
   "Type": "Flail",
   "Properties": "1h 🔨(1d8 + 1)\n🛡️ + 1 AC",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Sold by A'jak'nir Jeera. 💰",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Sold by A'jak'nir Jeera. 💰",
   "Description": "Reduce incoming Bludgeoning, Piercing, and Slashing damage by 1.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Defender_Flail",
@@ -840,14 +840,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd97a"
+    "$oid": "661a2b6eaa68a93779e61ece"
   },
   "Name": "Diadem of Arcane Synergy",
   "Rarity": "Rare",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Dropped as loot by Ardent Jhe'rezath. 🎁",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Dropped as loot by Ardent Jhe'rezath. 🎁",
   "Description": "When you inflict a condition, gain Arcane Synergy for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy",
@@ -855,14 +855,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd97b"
+    "$oid": "661a2b6eaa68a93779e61ecf"
   },
   "Name": "Disintegrating Night Walkers",
   "Rarity": "Very Rare",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Grymforge",
-  "Location": "Dropped as loot by Nere. 🎁",
+  "Location": "Grymforge",
+  "LocationDesc": "Dropped as loot by Nere. 🎁",
   "Description": "Immune to being Enwebbed, Entangled, or Ensnared and slipping on Grease or Ice.\nCast Misty Step once per Short Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Disintegrating_Night_Walkers",
@@ -870,14 +870,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd97c"
+    "$oid": "661a2b6eaa68a93779e61ed0"
   },
   "Name": "Doom Hammer",
   "Rarity": "Uncommon",
   "Type": "Maul",
   "Properties": "2h 🔨(2d6)",
-  "Act Area": "Goblin Camp",
-  "Location": "Sold by Grat the Trader. 💰",
+  "Location": "Goblin Camp",
+  "LocationDesc": "Sold by Grat the Trader. 💰",
   "Description": "Prevents target from regaining Hit Points. Undead creatures also get Disadvantage on Attack Rolls.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Doom_Hammer",
@@ -885,14 +885,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd97d"
+    "$oid": "661a2b6eaa68a93779e61ed1"
   },
   "Name": "Dragon's Grasp",
   "Rarity": "Uncommon",
   "Type": "Handaxe",
   "Properties": "1h 🔪(1d6)",
-  "Act Area": "Druid Grove",
-  "Location": "Sold by Arron. 💰",
+  "Location": "Druid Grove",
+  "LocationDesc": "Sold by Arron. 💰",
   "Description": "Deals an additional 🔪(1d4) to Burning targets.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Dragon's_Grasp",
@@ -900,14 +900,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd97e"
+    "$oid": "661a2b6eaa68a93779e61ed2"
   },
   "Name": "Drow Studded Leather Armour\n",
   "Rarity": "Rare",
   "Type": "Light Armour",
   "Properties": "🛡️ 12 AC",
-  "Act Area": "The Festering Cove",
-  "Location": "Looted from a Heavy Chest at Lolth's Cultist's cache, climbing up a high spot near the entrance of The Festering Cove.",
+  "Location": "The Festering Cove",
+  "LocationDesc": "Looted from a Heavy Chest at Lolth's Cultist's cache, climbing up a high spot near the entrance of The Festering Cove.",
   "Description": "Stealth + 1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Drow_Studded_Leather_Armour\n",
@@ -915,14 +915,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd97f"
+    "$oid": "661a2b6eaa68a93779e61ed3"
   },
   "Name": "Envoy's Amulet",
   "Rarity": "Rare",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Quest Reward by Spaw.",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Quest Reward by Spaw.",
   "Description": "Grant an ally a +2 bonus to Persuasion Checks once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Envoy's_Amulet",
@@ -930,14 +930,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd980"
+    "$oid": "661a2b6eaa68a93779e61ed4"
   },
   "Name": "Everburn Blade",
   "Rarity": "Uncommon",
   "Type": "Greatsword",
   "Properties": "2h 🔪(2d6) + 🔥(1d4)",
-  "Act Area": "Nautiloid",
-  "Location": "Dropped as loot by Commander Zhalk. 🎁",
+  "Location": "Nautiloid",
+  "LocationDesc": "Dropped as loot by Commander Zhalk. 🎁",
   "Description": "",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Everburn_Blade",
@@ -945,14 +945,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd981"
+    "$oid": "661a2b6eaa68a93779e61ed5"
   },
   "Name": "Explorer's Ring",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Underdark",
-  "Location": "Found on a skeleton atop the stones surrounding the Bibberbang field north of the Dread Hollow.",
+  "Location": "Underdark",
+  "LocationDesc": "Found on a skeleton atop the stones surrounding the Bibberbang field north of the Dread Hollow.",
   "Description": "Nature +1\nSurvival +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Explorer's_Ring",
@@ -960,14 +960,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd982"
+    "$oid": "661a2b6eaa68a93779e61ed6"
   },
   "Name": "Exterminator's Axe",
   "Rarity": "Uncommon",
   "Type": "Greataxe",
   "Properties": "2h 🔪(1d12)",
-  "Act Area": "Underdark",
-  "Location": "Dropped as loot by Gekh Coal. 🎁",
+  "Location": "Underdark",
+  "LocationDesc": "Dropped as loot by Gekh Coal. 🎁",
   "Description": "Deals an additional 🔥(1d6) to Plants, Insects, and Small creatures.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Exterminator's_Axe",
@@ -975,14 +975,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd983"
+    "$oid": "661a2b6eaa68a93779e61ed7"
   },
   "Name": "Faithbreaker",
   "Rarity": "Uncommon",
   "Type": "Warhammer",
   "Properties": "1h 🔨(1d8 + 1)\n2h 🔨(1d10 + 1)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Dropped as loot by Dror Ragzlin. 🎁",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Dropped as loot by Dror Ragzlin. 🎁",
   "Description": "Gain Absolute Power weapon action.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Faithbreaker",
@@ -990,14 +990,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd984"
+    "$oid": "661a2b6eaa68a93779e61ed8"
   },
   "Name": "Fetish of Callarduran Smoothhands",
   "Rarity": "Rare",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Grymforge",
-  "Location": "Found on one of the dead deep gnomes that a pair of duergar are throwing into the lake.",
+  "Location": "Grymforge",
+  "LocationDesc": "Found on one of the dead deep gnomes that a pair of duergar are throwing into the lake.",
   "Description": "Cast Invisibility once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Fetish_of_Callarduran_Smoothhands",
@@ -1005,14 +1005,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd985"
+    "$oid": "661a2b6eaa68a93779e61ed9"
   },
   "Name": "Firestoker",
   "Rarity": "Uncommon",
   "Type": "Hand Crossbow",
   "Properties": "1h 🏹(1d6)",
-  "Act Area": "Grymforge",
-  "Location": "Found in an Opulent Chest in Grymforge in the hallway with the Hellsboars.",
+  "Location": "Grymforge",
+  "LocationDesc": "Found in an Opulent Chest in Grymforge in the hallway with the Hellsboars.",
   "Description": "Deals an additional 🏹(1d4) to Burning targets.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Firestoker",
@@ -1020,14 +1020,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd986"
+    "$oid": "661a2b6eaa68a93779e61eda"
   },
   "Name": "Fleetfingers",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Forest",
-  "Location": "Can be found inside a buried chest.",
+  "Location": "Forest",
+  "LocationDesc": "Can be found inside a buried chest.",
   "Description": "When you Dash or take a similar action, you can Jump without using a bonus action.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Fleetfingers",
@@ -1035,14 +1035,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd987"
+    "$oid": "661a2b6eaa68a93779e61edb"
   },
   "Name": "Gandrel's Aspiration",
   "Rarity": "Uncommon",
   "Type": "Heavy Crossbow",
   "Properties": "2h 🏹(1d10 + 1)",
-  "Act Area": "Sunlit Wetlands",
-  "Location": "Dropped as loot by Gandrel. 🎁",
+  "Location": "Sunlit Wetlands",
+  "LocationDesc": "Dropped as loot by Gandrel. 🎁",
   "Description": "Advantage against Monstrosity type enemies.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gandrel's_Aspiration",
@@ -1050,14 +1050,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd988"
+    "$oid": "661a2b6eaa68a93779e61edc"
   },
   "Name": "Giantbreaker",
   "Rarity": "Rare",
   "Type": "Heavy Crossbow",
   "Properties": "2h 🏹(1d10)",
-  "Act Area": "Zhentarim Hideout",
-  "Location": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
+  "Location": "Zhentarim Hideout",
+  "LocationDesc": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
   "Description": "When you hit, inflict Reeling for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Giantbreaker",
@@ -1065,14 +1065,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd989"
+    "$oid": "661a2b6eaa68a93779e61edd"
   },
   "Name": "Gloves of Archery",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Goblin Camp",
-  "Location": "Sold by Grat the Trader. 💰",
+  "Location": "Goblin Camp",
+  "LocationDesc": "Sold by Grat the Trader. 💰",
   "Description": "Deal an additional 🎲(2) damage with ranged weapon attacks.\nProficiency with Longbows and Shortbows.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Archery",
@@ -1080,14 +1080,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd98a"
+    "$oid": "661a2b6eaa68a93779e61ede"
   },
   "Name": "Gloves of Baneful Striking",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Rosymorn Monastery Trail",
-  "Location": "Sold by Lady Esther. 💰",
+  "Location": "Rosymorn Monastery Trail",
+  "LocationDesc": "Sold by Lady Esther. 💰",
   "Description": "When you deal damage with a weapon attack, the target receives a 🎲(1d4) penalty to its Saving Throw against your next spell.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Baneful_Striking",
@@ -1095,14 +1095,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd98b"
+    "$oid": "661a2b6eaa68a93779e61edf"
   },
   "Name": "Gloves of Belligerent Skies",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Found inside a locked chest in the Inquisitor's Chamber.",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Found inside a locked chest in the Inquisitor's Chamber.",
   "Description": "When you deal Thunder, Lightning, or Radiant damage, inflict Reverberation for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies",
@@ -1110,14 +1110,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd98c"
+    "$oid": "661a2b6eaa68a93779e61ee0"
   },
   "Name": "Gloves of Cinder and Sizzle",
   "Rarity": "Rare",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Rosymorn Monastery Trail",
-  "Location": "Sold by Lady Esther. 💰",
+  "Location": "Rosymorn Monastery Trail",
+  "LocationDesc": "Sold by Lady Esther. 💰",
   "Description": "Deal an additional 🔥(1d4) with your unarmed attacks.\nCast Scorching Ray once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Cinder_and_Sizzle",
@@ -1125,14 +1125,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd98d"
+    "$oid": "661a2b6eaa68a93779e61ee1"
   },
   "Name": "Gloves of Dexterity",
   "Rarity": "Very Rare",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Sold by A'jak'nir Jeera. 💰",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Sold by A'jak'nir Jeera. 💰",
   "Description": "Increases Dexterity to 18.\nAttack +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Dexterity",
@@ -1140,14 +1140,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd98e"
+    "$oid": "661a2b6eaa68a93779e61ee2"
   },
   "Name": "Gloves of Hail of Thorns",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Zhentarim Hideout",
-  "Location": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
+  "Location": "Zhentarim Hideout",
+  "LocationDesc": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
   "Description": "Cast Hail of Thorns once per Short Rest",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Hail_of_Thorns",
@@ -1155,14 +1155,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd98f"
+    "$oid": "661a2b6eaa68a93779e61ee3"
   },
   "Name": "Gloves of Heroism",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "The Risen Road",
-  "Location": "Found inside a wooden chest at the back of the hidden room in the cellar of the Toll House.",
+  "Location": "The Risen Road",
+  "LocationDesc": "Found inside a wooden chest at the back of the hidden room in the cellar of the Toll House.",
   "Description": "When you use your Channel Oath spells, you gain Heroism.\nStrength Saving Throws +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Heroism",
@@ -1170,14 +1170,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd990"
+    "$oid": "661a2b6eaa68a93779e61ee4"
   },
   "Name": "Gloves of Missile Snaring",
   "Rarity": "Rare",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Sold by Arron. 💰",
+  "Location": "Druid Grove",
+  "LocationDesc": "Sold by Arron. 💰",
   "Description": "As a Reaction, intercept ranged weapon attacks and reduce their damage by 🎲(1d10 + Dexterity Modifier).",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Missile_Snaring",
@@ -1185,14 +1185,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd991"
+    "$oid": "661a2b6eaa68a93779e61ee5"
   },
   "Name": "Gloves of Power",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Dropped as loot by Goblin Boss Za'Krug. 🎁",
+  "Location": "Druid Grove",
+  "LocationDesc": "Dropped as loot by Goblin Boss Za'Krug. 🎁",
   "Description": "When you deal damage with a melee attack and bear the Absolute's Brand, the target receives a 🎲(1d4) penalty penalty to their Attack Rolls and Saving Throws.\nSleight of Hand +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Power",
@@ -1200,14 +1200,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd992"
+    "$oid": "661a2b6eaa68a93779e61ee6"
   },
   "Name": "Gloves of the Growling Underdog",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Found in Dror Ragzlin's treasure pile.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Found in Dror Ragzlin's treasure pile.",
   "Description": "Advantage on melee attack rolls while surrounded by 2 or more foes.\nStrength Saving Throws +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog",
@@ -1215,14 +1215,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd993"
+    "$oid": "661a2b6eaa68a93779e61ee7"
   },
   "Name": "Gloves of Thievery",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Zhentarim Hideout",
-  "Location": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
+  "Location": "Zhentarim Hideout",
+  "LocationDesc": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
   "Description": "Advantage on Sleight of Hand Checks.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Thievery",
@@ -1230,14 +1230,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd994"
+    "$oid": "661a2b6eaa68a93779e61ee8"
   },
   "Name": "Gloves of Uninhibited Kushigo",
   "Rarity": "Rare",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Quest Reward by Derryth Bonecloak.",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Quest Reward by Derryth Bonecloak.",
   "Description": "Deal an additional 🎲(1d4) with Throw Attacks and attacks made with Improvised Weapons.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gloves_of_Uninhibited_Kushigo",
@@ -1245,14 +1245,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd995"
+    "$oid": "661a2b6eaa68a93779e61ee9"
   },
   "Name": "Glowing Shield",
   "Rarity": "Uncommon",
   "Type": "Shield",
   "Properties": "🛡️ + 2 AC",
-  "Act Area": "Goblin Camp",
-  "Location": "Found in a locked chest on a ridge behind the Goblin Camp.",
+  "Location": "Goblin Camp",
+  "LocationDesc": "Found in a locked chest on a ridge behind the Goblin Camp.",
   "Description": "Gain ❤️(8) Temporary Hit Points when you're at 50% Hit Points or less once per Short Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Glowing_Shield",
@@ -1260,14 +1260,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd996"
+    "$oid": "661a2b6eaa68a93779e61eea"
   },
   "Name": "Gold Wyrmling Staff",
   "Rarity": "Rare",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6 + 1) + 🔥(1d4)\n2h 🔨(1d8 + 1) + 🔥(1d4)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Sold by main Merchants, item in Merchant Item Pool. 💰",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Sold by main Merchants, item in Merchant Item Pool. 💰",
   "Description": "Cast Fire Bolt",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Gold_Wyrmling_Staff",
@@ -1275,14 +1275,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd997"
+    "$oid": "661a2b6eaa68a93779e61eeb"
   },
   "Name": "Grymskull Helm",
   "Rarity": "Very Rare",
   "Type": "Heavy Helmet",
   "Properties": "",
-  "Act Area": "The Adamantine Forge",
-  "Location": "Dropped as loot by Grym. 🎁",
+  "Location": "The Adamantine Forge",
+  "LocationDesc": "Dropped as loot by Grym. 🎁",
   "Description": "Attackers can't land Critical Hits on you.\nResistance to Fire damage.\nCast Hunter's Mark once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Grymskull_Helm",
@@ -1290,14 +1290,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd998"
+    "$oid": "661a2b6eaa68a93779e61eec"
   },
   "Name": "Guiding Light",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Arcane Tower",
-  "Location": "Dropped as loot by Bernard or given to you as a reward. 🎁",
+  "Location": "Arcane Tower",
+  "LocationDesc": "Dropped as loot by Bernard or given to you as a reward. 🎁",
   "Description": "Cast Light",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Guiding_Light",
@@ -1305,14 +1305,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd999"
+    "$oid": "661a2b6eaa68a93779e61eed"
   },
   "Name": "Hamarhraft",
   "Rarity": "Uncommon",
   "Type": "Maul",
   "Properties": "2h 🔨(2d6)",
-  "Act Area": "Waukeen's Rest",
-  "Location": "Found in a Gilded Chest in one of the burning rooms on the second story of the inn.",
+  "Location": "Waukeen's Rest",
+  "LocationDesc": "Found in a Gilded Chest in one of the burning rooms on the second story of the inn.",
   "Description": "When the wearer Jumps, they deal ⛈️(1d6) in a 3 m / 10 ft radius upon landing.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Hamarhraft",
@@ -1320,14 +1320,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd99a"
+    "$oid": "661a2b6eaa68a93779e61eee"
   },
   "Name": "Haste Helm",
   "Rarity": "Rare",
   "Type": "Light Helmet",
   "Properties": "",
-  "Act Area": "Blighted Village",
-  "Location": "Found inside the locked chest near to the Ancient Rune Circle.",
+  "Location": "Blighted Village",
+  "LocationDesc": "Found inside the locked chest near to the Ancient Rune Circle.",
   "Description": "At the start of combat, gain Momentum for 3 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Haste_Helm",
@@ -1335,14 +1335,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd99b"
+    "$oid": "661a2b6eaa68a93779e61eef"
   },
   "Name": "Harold",
   "Rarity": "Rare",
   "Type": "Heavy Crossbow",
   "Properties": "2h 🏹(1d10 + 1)",
-  "Act Area": "Zhentarim Hideout",
-  "Location": "Quest Reward by Zarys.",
+  "Location": "Zhentarim Hideout",
+  "LocationDesc": "Quest Reward by Zarys.",
   "Description": "When you deal damage to a target with a ranged weapon, it must succeed a Charisma Charisma Save or be Baned for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Harold",
@@ -1350,14 +1350,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd99c"
+    "$oid": "661a2b6eaa68a93779e61ef0"
   },
   "Name": "Hedge Wanderer Armour",
   "Rarity": "Uncommon",
   "Type": "Medium Armour",
   "Properties": "🛡️ 13 AC\n",
-  "Act Area": "Druid Grove",
-  "Location": "Sold by Arron. 💰",
+  "Location": "Druid Grove",
+  "LocationDesc": "Sold by Arron. 💰",
   "Description": "Gain a +1 bonus to Dexterity Saving Throws and Dexterity Checks.\nNature +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Hedge_Wanderer_Armour",
@@ -1365,14 +1365,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd99d"
+    "$oid": "661a2b6eaa68a93779e61ef1"
   },
   "Name": "Hellrider's Pride",
   "Rarity": "Uncommon",
   "Type": "Medium Gloves",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Quest Reward by Zevlor.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Quest Reward by Zevlor.",
   "Description": "When you heal a creature, grant them Blade Ward for 2 turns.\nStrength Saving Throws +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Hellrider's_Pride",
@@ -1380,14 +1380,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd99e"
+    "$oid": "661a2b6eaa68a93779e61ef2"
   },
   "Name": "Helmet of Autonomy",
   "Rarity": "Uncommon",
   "Type": "Light Helmet",
   "Properties": "",
-  "Act Area": "The Festering Cove",
-  "Location": "Found on a skeleton at the entrance to The Festering Cove.",
+  "Location": "The Festering Cove",
+  "LocationDesc": "Found on a skeleton at the entrance to The Festering Cove.",
   "Description": "Proficiency in Wisdom Saving Throws.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Helmet_of_Autonomy",
@@ -1395,14 +1395,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd99f"
+    "$oid": "661a2b6eaa68a93779e61ef3"
   },
   "Name": "Helmet of Smiting",
   "Rarity": "Uncommon",
   "Type": "Medium Helmet",
   "Properties": "",
-  "Act Area": "Selûnite Outpost",
-  "Location": "Found inside a locked gilded chest",
+  "Location": "Selûnite Outpost",
+  "LocationDesc": "Found inside a locked gilded chest",
   "Description": "Gain ❤️(Charisma modifier) Temporary Hit Points when you inflict a condition with one of your Smite spells.\nConstitution Saving Throws +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Helmet_of_Smiting",
@@ -1410,14 +1410,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9a0"
+    "$oid": "661a2b6eaa68a93779e61ef4"
   },
   "Name": "Herbalist's Gloves",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Derryth Bonecloak. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Derryth Bonecloak. 💰",
   "Description": "If you heal a Poisoned creature, it is no longer Poisoned.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Herbalist's_Gloves",
@@ -1425,14 +1425,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9a1"
+    "$oid": "661a2b6eaa68a93779e61ef5"
   },
   "Name": "Hoarfrost Boots",
   "Rarity": "Uncommon",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Found inside a cabinet in Inquisitor's Chamber.",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Found inside a cabinet in Inquisitor's Chamber.",
   "Description": "You cannot fall Prone while traversing icy terrain.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Hoarfrost_Boots",
@@ -1440,14 +1440,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9a2"
+    "$oid": "661a2b6eaa68a93779e61ef6"
   },
   "Name": "Holy Lance Helm",
   "Rarity": "Uncommon",
   "Type": "Medium Helmet",
   "Properties": "",
-  "Act Area": "Rosymorn Monastery",
-  "Location": "Found in a chest on the top floor of Rosymorn Monastery.",
+  "Location": "Rosymorn Monastery",
+  "LocationDesc": "Found in a chest on the top floor of Rosymorn Monastery.",
   "Description": "When a creature misses an Attack Roll against you, they must succeed a Dexterity Saving Throw or take ☀️(1d4).\nConstitution Saving Throws +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Holy_Lance_Helm",
@@ -1455,14 +1455,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9a3"
+    "$oid": "661a2b6eaa68a93779e61ef7"
   },
   "Name": "Hunter's Dagger",
   "Rarity": "Uncommon",
   "Type": "Dagger",
   "Properties": "1h 🏹(1d4 + 1)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Sold by Roah Moonglow. 💰",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Sold by Roah Moonglow. 💰",
   "Description": "On a hit, the target must succeed a Constitution Saving Throw or become Ruptured.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Hunter's_Dagger",
@@ -1470,14 +1470,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9a4"
+    "$oid": "661a2b6eaa68a93779e61ef8"
   },
   "Name": "Hunting Shortbow",
   "Rarity": "Uncommon",
   "Type": "Shortbow",
   "Properties": "2h 🏹(1d6 + 1)",
-  "Act Area": "Druid Grove",
-  "Location": "Sold by Dammon. 💰",
+  "Location": "Druid Grove",
+  "LocationDesc": "Sold by Dammon. 💰",
   "Description": "Advantage against Monstrosity type enemies.\nCast Hunter's Mark once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Hunting_Shortbow",
@@ -1485,14 +1485,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9a5"
+    "$oid": "661a2b6eaa68a93779e61ef9"
   },
   "Name": "Infernal Robe",
   "Rarity": "Very Rare",
   "Type": "Clothing",
   "Properties": "🛡️ 10 AC\n🛡️ + 1 AC",
-  "Act Area": "Campsite",
-  "Location": "Quest Reward by Mizora.",
+  "Location": "Campsite",
+  "LocationDesc": "Quest Reward by Mizora.",
   "Description": "Cast Fire Shield (Warm) once per Long Rest.\nResistance to Fire damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Infernal_Robe",
@@ -1500,14 +1500,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9a6"
+    "$oid": "661a2b6eaa68a93779e61efa"
   },
   "Name": "Intransigent Warhammer",
   "Rarity": "Uncommon",
   "Type": "Warhammer",
   "Properties": "1h 🔨(1d8)\n2h 🔨(1d10)",
-  "Act Area": "Grymforge",
-  "Location": "Found inside a Watertight Chest on a Duergar skiff during your first voyage to Grymforge from the Decrepit Village.",
+  "Location": "Grymforge",
+  "LocationDesc": "Found inside a Watertight Chest on a Duergar skiff during your first voyage to Grymforge from the Decrepit Village.",
   "Description": "Knocks nearby creatures Prone after killing a target or landing a Critical Hit.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Intransigent_Warhammer",
@@ -1515,14 +1515,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9a7"
+    "$oid": "661a2b6eaa68a93779e61efb"
   },
   "Name": "Jagged Spear",
   "Rarity": "Uncommon",
   "Type": "Spear",
   "Properties": "1h 🏹(1d6)\n2h 🏹(1d8)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Found on the ground near Torturer Spike.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Found on the ground near Torturer Spike.",
   "Description": "On a hit, the target may receive Disadvantage on Constitution Saving Throws.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Jagged_Spear",
@@ -1530,14 +1530,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9a8"
+    "$oid": "661a2b6eaa68a93779e61efc"
   },
   "Name": "Jorgoral's Greatsword",
   "Rarity": "Rare",
   "Type": "Greatsword",
   "Properties": "2h 🔪(2d6 + 1)",
-  "Act Area": "Grymforge",
-  "Location": "Dropped as loot by Corsair Greymon. 🎁",
+  "Location": "Grymforge",
+  "LocationDesc": "Dropped as loot by Corsair Greymon. 🎁",
   "Description": "Gain Colossal Onslaught weapon action.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Jorgoral's_Greatsword",
@@ -1545,14 +1545,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9a9"
+    "$oid": "661a2b6eaa68a93779e61efd"
   },
   "Name": "Key of the Ancients",
   "Rarity": "Uncommon",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Dropped as loot by Findal or Nettie. 🎁",
+  "Location": "Druid Grove",
+  "LocationDesc": "Dropped as loot by Findal or Nettie. 🎁",
   "Description": "While you stand in front of the stone door in Nettie's room in the Druid Grove, you can open a shortcut to the Underground Passage.\nNature +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Key_of_the_Ancients",
@@ -1560,14 +1560,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9aa"
+    "$oid": "661a2b6eaa68a93779e61efe"
   },
   "Name": "Knife of the Undermountain King",
   "Rarity": "Very Rare",
   "Type": "Shortsword",
   "Properties": "1h 🏹(1d6 + 2)",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Sold by A'jak'nir Jeera. 💰",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Sold by A'jak'nir Jeera. 💰",
   "Description": "When you roll 2 damage or less, reroll the dice.\nYou have Advantage on Attack Rolls against Lightly or Heavily Obscured targets when using this weapon.\nYou land a Critical Hit when rolling a 19. ",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Knife_of_the_Undermountain_King",
@@ -1575,14 +1575,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ab"
+    "$oid": "661a2b6eaa68a93779e61eff"
   },
   "Name": "Komira's Locket",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Given to you by Arabella's parents after protecting her from Kagha.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Given to you by Arabella's parents after protecting her from Kagha.",
   "Description": "Cast Dancing Lights",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Komira's_Locket",
@@ -1590,14 +1590,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ac"
+    "$oid": "661a2b6eaa68a93779e61f00"
   },
   "Name": "Larethian's Wrath",
   "Rarity": "Rare",
   "Type": "Longsword",
   "Properties": "1h 🔪(1d8 + 1)\n2h 🔪(1d10 + 1)",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Sold by A'jak'nir Jeera. 💰",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Sold by A'jak'nir Jeera. 💰",
   "Description": "Gain Razor Gale weapon action.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Larethian's_Wrath",
@@ -1605,14 +1605,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ad"
+    "$oid": "661a2b6eaa68a93779e61f01"
   },
   "Name": "Light of Creation",
   "Rarity": "Uncommon",
   "Type": "Halberd",
   "Properties": "2h 🔪(1d10 + 1) + ⚡(1d6)",
-  "Act Area": "Arcane Tower",
-  "Location": "Dropped as loot by Bernard. 🎁",
+  "Location": "Arcane Tower",
+  "LocationDesc": "Dropped as loot by Bernard. 🎁",
   "Description": "Chance to Stun the wielder, unless it is a Construct.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Light_of_Creation",
@@ -1620,14 +1620,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ae"
+    "$oid": "661a2b6eaa68a93779e61f02"
   },
   "Name": "Linebreaker Boots",
   "Rarity": "Rare",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Dropped as loot by Beastmaster Zurk. 🎁",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Dropped as loot by Beastmaster Zurk. 🎁",
   "Description": "When you Dash or take a similar action, gain Wrath for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Linebreaker_Boots",
@@ -1635,14 +1635,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9af"
+    "$oid": "661a2b6eaa68a93779e61f03"
   },
   "Name": "Loviatar's Scourge",
   "Rarity": "Uncommon",
   "Type": "Mace",
   "Properties": "1h 🔨(1d6) + 💀(1d6)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Dropped as loot by Abdirak. 🎁",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Dropped as loot by Abdirak. 🎁",
   "Description": "Deals an additional 💀(1d6) to nearby targets, including the wielder.\nResistance to Necrotic damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Loviatar's_Scourge",
@@ -1650,14 +1650,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9b0"
+    "$oid": "661a2b6eaa68a93779e61f04"
   },
   "Name": "Luminous Armour",
   "Rarity": "Uncommon",
   "Type": "Medium Armour",
   "Properties": "🛡️ 15 AC",
-  "Act Area": "Selûnite Outpost",
-  "Location": "Found in a locked and trapped Opulent Chest behind a hidden door revealed by a Perception check, or it can be accessed by jumping from the room with the waypoint.",
+  "Location": "Selûnite Outpost",
+  "LocationDesc": "Found in a locked and trapped Opulent Chest behind a hidden door revealed by a Perception check, or it can be accessed by jumping from the room with the waypoint.",
   "Description": "When you deal Radiant damage, you cause a Radiant shockwave that inflicts Radiating Orb in a 3 m / 10 ft radius to enemies for 1 turn.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Luminous_Armour",
@@ -1665,14 +1665,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9b1"
+    "$oid": "661a2b6eaa68a93779e61f05"
   },
   "Name": "Mage's Friend",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Arcane Tower",
-  "Location": "Found in a chest at the foot of the bed on the 4th floor.",
+  "Location": "Arcane Tower",
+  "LocationDesc": "Found in a chest at the foot of the bed on the 4th floor.",
   "Description": "Arcana +1\nReligion +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Mage's_Friend",
@@ -1680,14 +1680,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9b2"
+    "$oid": "661a2b6eaa68a93779e61f06"
   },
   "Name": "Mask of the Shapeshifter",
   "Rarity": "Legendary",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Campsite",
-  "Location": "Found in the Traveller's Chest at your Campsite, if you own the Digital Deluxe Upgrade.",
+  "Location": "Campsite",
+  "LocationDesc": "Found in the Traveller's Chest at your Campsite, if you own the Digital Deluxe Upgrade.",
   "Description": "Cast Disguise Self",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Mask_of_the_Shapeshifter",
@@ -1695,14 +1695,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9b3"
+    "$oid": "661a2b6eaa68a93779e61f07"
   },
   "Name": "Melf's First Staff",
   "Rarity": "Uncommon",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6 + 1)\n2h 🔨(1d8 + 1)",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Blurg. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Blurg. 💰",
   "Description": "Gain a +1 bonus to Spell Save DC and spell Attack Rolls.\nCast Melf's Acid Arrow once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Melf's_First_Staff",
@@ -1710,14 +1710,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9b4"
+    "$oid": "661a2b6eaa68a93779e61f08"
   },
   "Name": "Merregon Halberd",
   "Rarity": "Uncommon",
   "Type": "Halberd",
   "Properties": "2h 🔪(1d10 + 1)",
-  "Act Area": "Grymforge",
-  "Location": "Dropped as loot by a Merregon Legionnaire. 🎁",
+  "Location": "Grymforge",
+  "LocationDesc": "Dropped as loot by a Merregon Legionnaire. 🎁",
   "Description": "",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Merregon_Halberd",
@@ -1725,14 +1725,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9b5"
+    "$oid": "661a2b6eaa68a93779e61f09"
   },
   "Name": "Monster Slayer Glaive",
   "Rarity": "Rare",
   "Type": "Glaive",
   "Properties": "2h 🔪(1d10 + 1)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Sold by Roah Moonglow. 💰",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Sold by Roah Moonglow. 💰",
   "Description": "Deals an additional 🎲(1d4) damage against monstrosity type enemies.\nJump distance is increased by 1.5m / 5ft.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Monster_Slayer_Glaive",
@@ -1740,14 +1740,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9b6"
+    "$oid": "661a2b6eaa68a93779e61f0a"
   },
   "Name": "Moondrop Pendant",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Owlbear Nest",
-  "Location": "Found in a Selûnite Gilded Chest. You must read the Selûnite Prayer Sheet in front of the chest to unlock it.",
+  "Location": "Owlbear Nest",
+  "LocationDesc": "Found in a Selûnite Gilded Chest. You must read the Selûnite Prayer Sheet in front of the chest to unlock it.",
   "Description": "You don't provoke Attacks of Opportunity while you're at 50% Hit Points or less.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Moondrop_Pendant",
@@ -1755,14 +1755,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9b7"
+    "$oid": "661a2b6eaa68a93779e61f0b"
   },
   "Name": "Mourning Frost",
   "Rarity": "Very Rare",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6 + 1) + ❄️(1d4)\n2h 🔨(1d8 + 1) + ❄️(1d4)",
-  "Act Area": "Underdark",
-  "Location": "Created by combining the components carried by the three Drow mages competing to discover the Adamantine Forge.",
+  "Location": "Underdark",
+  "LocationDesc": "Created by combining the components carried by the three Drow mages competing to discover the Adamantine Forge.",
   "Description": "Deal an additional ❄️(1) when you deal any cold damage, and possibly inflict Chill.\nCast Ray of Frost",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Mourning_Frost",
@@ -1770,14 +1770,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9b8"
+    "$oid": "661a2b6eaa68a93779e61f0c"
   },
   "Name": "Mystra's Grace",
   "Rarity": "Uncommon",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Arcane Tower",
-  "Location": "Found in the Chest of the Mundane on the northern balcony.",
+  "Location": "Arcane Tower",
+  "LocationDesc": "Found in the Chest of the Mundane on the northern balcony.",
   "Description": "Cast Feather Fall",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Mystra's_Grace",
@@ -1785,14 +1785,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9b9"
+    "$oid": "661a2b6eaa68a93779e61f0d"
   },
   "Name": "Nature's Snare",
   "Rarity": "Uncommon",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6)\n2h 🔨(1d8)",
-  "Act Area": "Druid Grove",
-  "Location": "Found in a locked chest within the Underground Passage of the Druid Grove.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Found in a locked chest within the Underground Passage of the Druid Grove.",
   "Description": "On a hit, the target may become Ensnared if it is not a plant or beast.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Nature's_Snare",
@@ -1800,14 +1800,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ba"
+    "$oid": "661a2b6eaa68a93779e61f0e"
   },
   "Name": "Necklace of Elemental Augmentation",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Found inside a display case in Inquisitor's chamber.",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Found inside a display case in Inquisitor's chamber.",
   "Description": "When you deal Acid, Cold, Fire, Lightning or Thunder damage with Cantrips, add your Spellcasting Modifier to the damage dealt.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Necklace_of_Elemental_Augmentation",
@@ -1815,14 +1815,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9bb"
+    "$oid": "661a2b6eaa68a93779e61f0f"
   },
   "Name": "Pale Oak",
   "Rarity": "Rare",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6)\n2h 🔨(1d8)",
-  "Act Area": "Druid Grove",
-  "Location": "Quest Reward by Kagha. This reward is exclusive only for Druids.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Quest Reward by Kagha. This reward is exclusive only for Druids.",
   "Description": "Immune to Ensnare by Druidic Vines.\nCast Faithwarden's Vines once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Pale_Oak",
@@ -1830,14 +1830,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9bc"
+    "$oid": "661a2b6eaa68a93779e61f10"
   },
   "Name": "Pearl of Power Amulet",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Omeluum. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Omeluum. 💰",
   "Description": "You can replenish expended Spell Slots of your choice once per Long Rest.\nRestores a single spell slot of 3rd level or lower.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Pearl_of_Power_Amulet",
@@ -1845,14 +1845,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9bd"
+    "$oid": "661a2b6eaa68a93779e61f11"
   },
   "Name": "Periapt of Wound Closure",
   "Rarity": "Rare",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Rosymorn Monastery Trail",
-  "Location": "Sold by Lady Esther. 💰",
+  "Location": "Rosymorn Monastery Trail",
+  "LocationDesc": "Sold by Lady Esther. 💰",
   "Description": "When Downed, automatically stabilise at the start of the turn.\nWhen you regain Hit Points, heal for the maximum number.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Periapt_of_Wound_Closure",
@@ -1860,14 +1860,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9be"
+    "$oid": "661a2b6eaa68a93779e61f12"
   },
   "Name": "Phalar Aluve",
   "Rarity": "Rare",
   "Type": "Longsword",
   "Properties": "1h 🔪(1d8 + 1)\n2h 🔪(1d10 + 1)",
-  "Act Area": "Underdark",
-  "Location": "This weapon can be found stabbed into a rock.",
+  "Location": "Underdark",
+  "LocationDesc": "This weapon can be found stabbed into a rock.",
   "Description": "Cast Phalar Aluve: Shriek once per Short Rest.\nCast Phalar Aluve: Sing once per Short Rest.\nPerformance +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Phalar_Aluve",
@@ -1875,14 +1875,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9bf"
+    "$oid": "661a2b6eaa68a93779e61f13"
   },
   "Name": "Poisoner's Robe",
   "Rarity": "Uncommon",
   "Type": "Clothing",
   "Properties": "🛡️ 10 AC",
-  "Act Area": "Whispering Depths",
-  "Location": "Dropped as loot by Phase Spider Matriarch. 🎁",
+  "Location": "Whispering Depths",
+  "LocationDesc": "Dropped as loot by Phase Spider Matriarch. 🎁",
   "Description": "Deal an additional 🐍(1d4) when casting a spell that deals Poison damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Poisoner's_Robe",
@@ -1890,14 +1890,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9c0"
+    "$oid": "661a2b6eaa68a93779e61f14"
   },
   "Name": "Psychic Spark",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Blurg. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Blurg. 💰",
   "Description": "Magic Missile shoots an additional missile when cast.\nCast Magic Missile once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Psychic_Spark",
@@ -1905,14 +1905,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9c1"
+    "$oid": "661a2b6eaa68a93779e61f15"
   },
   "Name": "Rain Dancer",
   "Rarity": "Uncommon",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6)\n2h 🔨(1d8)",
-  "Act Area": "Druid Grove",
-  "Location": "Sold by Arron. 💰",
+  "Location": "Druid Grove",
+  "LocationDesc": "Sold by Arron. 💰",
   "Description": "Cast Create Water once per Short Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Rain_Dancer",
@@ -1920,14 +1920,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9c2"
+    "$oid": "661a2b6eaa68a93779e61f16"
   },
   "Name": "Reason's Grasp",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "The Risen Road",
-  "Location": "Found in a locked chest in the cave where survivors of the attacked caravan are fending off a pack of gnolls.",
+  "Location": "The Risen Road",
+  "LocationDesc": "Found in a locked chest in the cave where survivors of the attacked caravan are fending off a pack of gnolls.",
   "Description": "Gain ❤️(15) Temporary Hit Points when your Rage ends.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Reason's_Grasp",
@@ -1935,14 +1935,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9c3"
+    "$oid": "661a2b6eaa68a93779e61f17"
   },
   "Name": "Returning Pike",
   "Rarity": "Uncommon",
   "Type": "Pike",
   "Properties": "2h 🏹(1d10 + 1)",
-  "Act Area": "Goblin Camp",
-  "Location": "Sold by Grat the Trader. 💰",
+  "Location": "Goblin Camp",
+  "LocationDesc": "Sold by Grat the Trader. 💰",
   "Description": "This weapon will return to its owner when thrown.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Returning_Pike",
@@ -1950,14 +1950,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9c4"
+    "$oid": "661a2b6eaa68a93779e61f18"
   },
   "Name": "Ring of Absolute Force",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Grymforge",
-  "Location": "Dropped as loot by Sergeant Thrinn. 🎁",
+  "Location": "Grymforge",
+  "LocationDesc": "Dropped as loot by Sergeant Thrinn. 🎁",
   "Description": "Cast Thunderwave once per Short Rest ",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Absolute_Force",
@@ -1965,14 +1965,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9c5"
+    "$oid": "661a2b6eaa68a93779e61f19"
   },
   "Name": "Ring of Arcane Synergy",
   "Rarity": "Rare",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Dropped as loot by Gish Far'Aag. 🎁",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Dropped as loot by Gish Far'Aag. 🎁",
   "Description": "When you deal damage with a Cantrip, gain Arcane Synergy for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Arcane_Synergy",
@@ -1980,14 +1980,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9c6"
+    "$oid": "661a2b6eaa68a93779e61f1a"
   },
   "Name": "Ring of Colour Spray",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Secluded Cove",
-  "Location": "Found in the Harpy's' Nest.",
+  "Location": "Secluded Cove",
+  "LocationDesc": "Found in the Harpy's' Nest.",
   "Description": "Cast Colour Spray once per battle.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Colour_Spray",
@@ -1995,14 +1995,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9c7"
+    "$oid": "661a2b6eaa68a93779e61f1b"
   },
   "Name": "Ring of Elemental Infusion",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Dropped as loot by Gish Umr'a'ac. 🎁",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Dropped as loot by Gish Umr'a'ac. 🎁",
   "Description": "When you deal Acid, Cold, Fire, Lightning or Thunder damage with Spells or Cantrips, you deal an additional 🎲(1d4) damage of that element on your next successful weapon attack, lasting until the end of your next turn.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Elemental_Infusion",
@@ -2010,14 +2010,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9c8"
+    "$oid": "661a2b6eaa68a93779e61f1c"
   },
   "Name": "Ring of Evasion",
   "Rarity": "Very Rare",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Campsite",
-  "Location": "Given by Tara during the first Long Rest following completion of the Escape the Nautiloid quest (only when playing as the Gale Origin).",
+  "Location": "Campsite",
+  "LocationDesc": "Given by Tara during the first Long Rest following completion of the Escape the Nautiloid quest (only when playing as the Gale Origin).",
   "Description": "When you fail a Dexterity Saving Throw, you can use your Reaction to succeed instead.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Evasion",
@@ -2025,14 +2025,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9c9"
+    "$oid": "661a2b6eaa68a93779e61f1d"
   },
   "Name": "Ring of Flinging",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Sold by Arron. 💰",
+  "Location": "Druid Grove",
+  "LocationDesc": "Sold by Arron. 💰",
   "Description": "Gain 🎲(1d4) bonus to throw damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Flinging",
@@ -2040,14 +2040,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ca"
+    "$oid": "661a2b6eaa68a93779e61f1e"
   },
   "Name": "Ring of Jumping",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Derryth Bonecloak. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Derryth Bonecloak. 💰",
   "Description": "Cast Enhance Leap once per Short Rest. ",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Jumping",
@@ -2055,14 +2055,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9cb"
+    "$oid": "661a2b6eaa68a93779e61f1f"
   },
   "Name": "Ring of Mind-Shielding",
   "Rarity": "Rare",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Omeluum or by trading information about the Nautiloid. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Omeluum or by trading information about the Nautiloid. 💰",
   "Description": "Advantage on Saving Throws against being Charmed.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Mind-Shielding",
@@ -2070,14 +2070,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9cc"
+    "$oid": "661a2b6eaa68a93779e61f20"
   },
   "Name": "Ring of Poison Resistance",
   "Rarity": "Rare",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Found on a skeleton inside a sarcophagus just before the Worg Pens.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Found on a skeleton inside a sarcophagus just before the Worg Pens.",
   "Description": "Resistance to Poison damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Poison_Resistance",
@@ -2085,14 +2085,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9cd"
+    "$oid": "661a2b6eaa68a93779e61f21"
   },
   "Name": "Ring of Protection",
   "Rarity": "Rare",
   "Type": "Ring",
   "Properties": "🛡️ + 1 AC",
-  "Act Area": "Druid Grove",
-  "Location": "Quest Reward by Mol.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Quest Reward by Mol.",
   "Description": "Saving Throw +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Protection",
@@ -2100,14 +2100,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ce"
+    "$oid": "661a2b6eaa68a93779e61f22"
   },
   "Name": "Ring of Restorative Gravity",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Omeluum. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Omeluum. 💰",
   "Description": "When you heal a creature, they are pulled 2m / 7ft towards you.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Restorative_Gravity",
@@ -2115,14 +2115,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9cf"
+    "$oid": "661a2b6eaa68a93779e61f23"
   },
   "Name": "Ring of Salving",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Omeluum. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Omeluum. 💰",
   "Description": "When you heal a creature, you regain ❤️(2) Hit Points.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ring_of_Salving",
@@ -2130,14 +2130,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9d0"
+    "$oid": "661a2b6eaa68a93779e61f24"
   },
   "Name": "Ritual Axe",
   "Rarity": "Uncommon",
   "Type": "Handaxe",
   "Properties": "1h 🔪(1d6)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Found on the table next to Abdirak.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Found on the table next to Abdirak.",
   "Description": "On a hit, possibly inflict a 🎲(1d4) penalty to Attack Rolls and Saving Throws on target.\nIf the attacker still has 25% or more Hit Points, they take 🏹(1d6) themselves.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ritual_Axe",
@@ -2145,14 +2145,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9d1"
+    "$oid": "661a2b6eaa68a93779e61f25"
   },
   "Name": "Ritual Dagger",
   "Rarity": "Uncommon",
   "Type": "Dagger",
   "Properties": "1h 🏹(1d4)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Found on the table next to Abdirak.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Found on the table next to Abdirak.",
   "Description": "On a hit, receive a 🎲(1d4) bonus to Attack Rolls and Saving Throws until the end of your next turn.\nUse a Bonus Action to take 🔪(1d4) and receive a 🎲(1d4) bonus to Attack Rolls and Saving Throws. ",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Ritual_Dagger",
@@ -2160,14 +2160,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9d2"
+    "$oid": "661a2b6eaa68a93779e61f26"
   },
   "Name": "Robe of Summer",
   "Rarity": "Uncommon",
   "Type": "Clothing",
   "Properties": "🛡️ 10 AC",
-  "Act Area": "Druid Grove",
-  "Location": "Found inside a crate sitting in the Hidden Vault within the Druid Grove. You will need the Rune of the Wolf carried by Rath to access the vault.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Found inside a crate sitting in the Hidden Vault within the Druid Grove. You will need the Rune of the Wolf carried by Rath to access the vault.",
   "Description": "Resistance to Cold damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Robe_of_Summer",
@@ -2175,14 +2175,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9d3"
+    "$oid": "661a2b6eaa68a93779e61f27"
   },
   "Name": "Robust Chain Shirt",
   "Rarity": "Uncommon",
   "Type": "Medium Armour",
   "Properties": "🛡️ 13 AC",
-  "Act Area": "Grymforge",
-  "Location": "Optional Quest Reward by Sergeant Thrinn.",
+  "Location": "Grymforge",
+  "LocationDesc": "Optional Quest Reward by Sergeant Thrinn.",
   "Description": "Deal 🏹(1d4) to the attackers that hit you with a melee attack while you're at 50% Hit Points or less.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Robust_Chain_Shirt",
@@ -2190,14 +2190,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9d4"
+    "$oid": "661a2b6eaa68a93779e61f28"
   },
   "Name": "Rupturing Blade",
   "Rarity": "Uncommon",
   "Type": "Rapier",
   "Properties": "1h 🏹(1d8 + 1)",
-  "Act Area": "Zhentarim Hideout",
-  "Location": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
+  "Location": "Zhentarim Hideout",
+  "LocationDesc": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
   "Description": "Gain Searing Blood weapon action.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Rupturing_Blade",
@@ -2205,14 +2205,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9d5"
+    "$oid": "661a2b6eaa68a93779e61f29"
   },
   "Name": "Safeguard Shield",
   "Rarity": "Uncommon",
   "Type": "Shield",
   "Properties": "🛡️ + 2 AC",
-  "Act Area": "Druid Grove",
-  "Location": "Sold by Dammon. 💰",
+  "Location": "Druid Grove",
+  "LocationDesc": "Sold by Dammon. 💰",
   "Description": "Saving Throws +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Safeguard_Shield",
@@ -2220,14 +2220,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9d6"
+    "$oid": "661a2b6eaa68a93779e61f2a"
   },
   "Name": "Sentient Amulet (Rare)",
   "Rarity": "Rare",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Grymforge",
-  "Location": "Found in a locked Adamantine Chest, on an island in lava, near the Lava Elemental.",
+  "Location": "Grymforge",
+  "LocationDesc": "Found in a locked Adamantine Chest, on an island in lava, near the Lava Elemental.",
   "Description": "See wiki for risks when using this item.\nCast Shatter once per Short Rest.\nCast Ki Restoration once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Sentient_Amulet_(Rare)",
@@ -2235,14 +2235,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9d7"
+    "$oid": "661a2b6eaa68a93779e61f2b"
   },
   "Name": "Shadow of Menzoberranzan",
   "Rarity": "Rare",
   "Type": "Light Helmet",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Found on a Pale Corpse in the Myconid Colony, in the secret area unlocked by completing the quest Defeat the Duergar Intruders.",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Found on a Pale Corpse in the Myconid Colony, in the secret area unlocked by completing the quest Defeat the Duergar Intruders.",
   "Description": "You can become Invisible once per Long Rest for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Shadow_of_Menzoberranzan",
@@ -2250,14 +2250,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9d8"
+    "$oid": "661a2b6eaa68a93779e61f2c"
   },
   "Name": "Shapeshifter's Boon Ring",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Dropped as loot by the Strange Ox. 🎁",
+  "Location": "Druid Grove",
+  "LocationDesc": "Dropped as loot by the Strange Ox. 🎁",
   "Description": "Gain 🎲(1d4) bonus to all checks while shapeshifting or disguising yourself",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Shapeshifter's_Boon_Ring",
@@ -2265,14 +2265,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9d9"
+    "$oid": "661a2b6eaa68a93779e61f2d"
   },
   "Name": "Shattered Flail",
   "Rarity": "Rare",
   "Type": "Mace",
   "Properties": "1h 🔨(1d6 + 2)",
-  "Act Area": "The Risen Road",
-  "Location": "Dropped as loot by Flind. 🎁",
+  "Location": "The Risen Road",
+  "LocationDesc": "Dropped as loot by Flind. 🎁",
   "Description": "Regain ❤️(1d6) Hit Points when you hit an enemy. You can go Mad if you don't hit an enemy each turn.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Shattered_Flail",
@@ -2280,14 +2280,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9da"
+    "$oid": "661a2b6eaa68a93779e61f2e"
   },
   "Name": "Shining Staver-of-Skulls",
   "Rarity": "Uncommon",
   "Type": "Light Hammer",
   "Properties": "1h 🔨(1d4 +1) + ☀️(1d4)",
-  "Act Area": "Grymforge",
-  "Location": "Dropped as loot or Sold by Corsair Greymon. 💰 🎁",
+  "Location": "Grymforge",
+  "LocationDesc": "Dropped as loot or Sold by Corsair Greymon. 💰 🎁",
   "Description": "",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Shining_Staver-of-Skulls",
@@ -2295,14 +2295,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9db"
+    "$oid": "661a2b6eaa68a93779e61f2f"
   },
   "Name": "Shortsword of First Blood",
   "Rarity": "Uncommon",
   "Type": "Shortsword",
   "Properties": "1h 🏹(1d6)",
-  "Act Area": "Underdark",
-  "Location": "Found on the corpse of an executed Deep Gnome in the Underdark, at the entrance of the Decrepit Village.",
+  "Location": "Underdark",
+  "LocationDesc": "Found on the corpse of an executed Deep Gnome in the Underdark, at the entrance of the Decrepit Village.",
   "Description": "Deals an additional 🏹(1d8) to targets that still have all their Hit Points.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Shortsword_of_First_Blood",
@@ -2310,14 +2310,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9dc"
+    "$oid": "661a2b6eaa68a93779e61f30"
   },
   "Name": "Sickle of BOOOAL",
   "Rarity": "Rare",
   "Type": "Sickle",
   "Properties": "1h 🔪(2d4)",
-  "Act Area": "The Festering Cove",
-  "Location": "Found in the Harpy's Nest.",
+  "Location": "The Festering Cove",
+  "LocationDesc": "Found in the Harpy's Nest.",
   "Description": "Advantage on Attack Rolls against Bleeding creatures, as long as there are Kuo-toa to worship BOOOAL.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Sickle_of_BOOOAL",
@@ -2325,14 +2325,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9dd"
+    "$oid": "661a2b6eaa68a93779e61f31"
   },
   "Name": "Silver Pendant",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Found on a skeleton on the cliff southwest of the Druid Grove.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Found on a skeleton on the cliff southwest of the Druid Grove.",
   "Description": "Cast Guidance",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Silver_Pendant",
@@ -2340,14 +2340,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9de"
+    "$oid": "661a2b6eaa68a93779e61f32"
   },
   "Name": "Skybreaker",
   "Rarity": "Uncommon",
   "Type": "Light Hammer",
   "Properties": "1h 🔨(1d4 + 1)",
-  "Act Area": "Arcane Tower",
-  "Location": "Found in a locked chest in front of the Arcane Tower.",
+  "Location": "Arcane Tower",
+  "LocationDesc": "Found in a locked chest in front of the Arcane Tower.",
   "Description": "Cast Searing Smite once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Skybreaker",
@@ -2355,14 +2355,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9df"
+    "$oid": "661a2b6eaa68a93779e61f33"
   },
   "Name": "Slippery Chain Shirt",
   "Rarity": "Uncommon",
   "Type": "Medium Armour",
   "Properties": "🛡️ 13 AC",
-  "Act Area": "The Festering Cove",
-  "Location": "Found in a chest hidden on a cliff.",
+  "Location": "The Festering Cove",
+  "LocationDesc": "Found in a chest hidden on a cliff.",
   "Description": "When you heal a creature, it automatically Disengages and won't trigger Opportunity Attacks.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Slippery_Chain_Shirt",
@@ -2370,14 +2370,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9e0"
+    "$oid": "661a2b6eaa68a93779e61f34"
   },
   "Name": "Smuggler's Ring",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "The Risen Road",
-  "Location": "Found on a Skeleton, hidden in a bush on the lower path following the river, near the broken bridge section at The Risen Road.",
+  "Location": "The Risen Road",
+  "LocationDesc": "Found on a Skeleton, hidden in a bush on the lower path following the river, near the broken bridge section at The Risen Road.",
   "Description": "Stealth +2\nSleight of Hand +2\nCharisma -1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Smuggler's_Ring",
@@ -2385,14 +2385,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9e1"
+    "$oid": "661a2b6eaa68a93779e61f35"
   },
   "Name": "Sorrow",
   "Rarity": "Rare",
   "Type": "Glaive",
   "Properties": "2h 🔪(1d10 + 1)",
-  "Act Area": "Druid Grove",
-  "Location": "Found in the Hidden Vault by solving the Enclave Library Puzzle.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Found in the Hidden Vault by solving the Enclave Library Puzzle.",
   "Description": "Cast Sorrowful Lash once per turn.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Sorrow",
@@ -2400,14 +2400,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9e2"
+    "$oid": "661a2b6eaa68a93779e61f36"
   },
   "Name": "Soulbreaker Greatsword",
   "Rarity": "Rare",
   "Type": "Greatsword",
   "Properties": "2h 🔪(2d6 + 1)",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Dropped as loot by Kith'rak Therezzyn. 🎁",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Dropped as loot by Kith'rak Therezzyn. 🎁",
   "Description": "Deal an additional 👁️(1d4) if you are Githyanki.\nGain a +2 bonus to Initiative Rolls.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Soulbreaker_Greatsword",
@@ -2415,14 +2415,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9e3"
+    "$oid": "661a2b6eaa68a93779e61f37"
   },
   "Name": "Speedy Reply",
   "Rarity": "Uncommon",
   "Type": "Scimitar",
   "Properties": "1h 🔪(1d6)",
-  "Act Area": "The Risen Road",
-  "Location": "Found on the body of a dead caravan agent on The Risen Road, near the cave where gnolls are attacking the caravan's survivors.",
+  "Location": "The Risen Road",
+  "LocationDesc": "Found on the body of a dead caravan agent on The Risen Road, near the cave where gnolls are attacking the caravan's survivors.",
   "Description": "On a hit, gain Momentum for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Speedy_Reply",
@@ -2430,14 +2430,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9e4"
+    "$oid": "661a2b6eaa68a93779e61f38"
   },
   "Name": "Spellthief",
   "Rarity": "Uncommon",
   "Type": "Longbow",
   "Properties": "2h 🏹(1d8)",
-  "Act Area": "Druid Grove",
-  "Location": "Sold by Arron. 💰",
+  "Location": "Druid Grove",
+  "LocationDesc": "Sold by Arron. 💰",
   "Description": "Regain a Level 1 Spell Slot when you land a Critical hit with the Spellthief once per Short Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Spellthief",
@@ -2445,14 +2445,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9e5"
+    "$oid": "661a2b6eaa68a93779e61f39"
   },
   "Name": "Spidersilk Armour",
   "Rarity": "Rare",
   "Type": "Light Armour",
   "Properties": "🛡️ 12 AC",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Dropped as loot by Minthara. 🎁",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Dropped as loot by Minthara. 🎁",
   "Description": "Stealthy: Gain +1 bonus to Stealth Checks.\nAdvantage on Constitution Saving Throws.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Spidersilk_Armour",
@@ -2460,14 +2460,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9e6"
+    "$oid": "661a2b6eaa68a93779e61f3a"
   },
   "Name": "Spiderstep Boots",
   "Rarity": "Uncommon",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Whispering Depths",
-  "Location": "Found in a heavy chest.",
+  "Location": "Whispering Depths",
+  "LocationDesc": "Found in a heavy chest.",
   "Description": "Immune to being Enwebbed. Your Movement Speed is not affected by web surfaces.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Spiderstep_Boots",
@@ -2475,14 +2475,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9e7"
+    "$oid": "661a2b6eaa68a93779e61f3b"
   },
   "Name": "Springstep Boots",
   "Rarity": "Rare",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Found in Dror Ragzlin's treasure pile.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Found in Dror Ragzlin's treasure pile.",
   "Description": "When you Dash or take a similar action, gain Momentum for 3 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Springstep_Boots",
@@ -2490,14 +2490,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9e8"
+    "$oid": "661a2b6eaa68a93779e61f3c"
   },
   "Name": "Spurred Band",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Whispering Depths",
-  "Location": "Found on a skeleton.",
+  "Location": "Whispering Depths",
+  "LocationDesc": "Found on a skeleton.",
   "Description": "When you start your turn with 50% Hit Points or less, gain Momentum for 1 turn.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Spurred_Band",
@@ -2505,14 +2505,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9e9"
+    "$oid": "661a2b6eaa68a93779e61f3d"
   },
   "Name": "Staff of Arcane Blessing",
   "Rarity": "Uncommon",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6)\n2h 🔨(1d8)",
-  "Act Area": "Arcane Tower",
-  "Location": "Found leaning up against a table in the basement of the Arcane Tower.",
+  "Location": "Arcane Tower",
+  "LocationDesc": "Found leaning up against a table in the basement of the Arcane Tower.",
   "Description": "Bless becomes Mystra's Blessing. \nMystra's Blessing grants an additional 🎲(1d4) to Weapon Attack Rolls and Saving Throws, and an additional 🎲(2d4) to Spell Attack Rolls.\nCast Bless (Mystra's Blessing) once per Long Rest",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Staff_of_Arcane_Blessing",
@@ -2520,14 +2520,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ea"
+    "$oid": "661a2b6eaa68a93779e61f3e"
   },
   "Name": "Staff of Crones",
   "Rarity": "Uncommon",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6)\n2h 🔨(1d8)",
-  "Act Area": "Ancient Abode",
-  "Location": "Looted from the ground in the treasure room after beating Auntie Ethel.",
+  "Location": "Ancient Abode",
+  "LocationDesc": "Looted from the ground in the treasure room after beating Auntie Ethel.",
   "Description": "Cast Ray of Sickness once per Short Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Staff_of_Crones",
@@ -2535,14 +2535,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9eb"
+    "$oid": "661a2b6eaa68a93779e61f3f"
   },
   "Name": "Steelforge Sword",
   "Rarity": "Uncommon",
   "Type": "Shortsword",
   "Properties": "1h 🏹(1d6 + 1)",
-  "Act Area": "Blighted Village",
-  "Location": "This weapon can be found in a locked chest in the abandoned workshop in the Blighted Village, across from the Ancient Rune Circle.",
+  "Location": "Blighted Village",
+  "LocationDesc": "This weapon can be found in a locked chest in the abandoned workshop in the Blighted Village, across from the Ancient Rune Circle.",
   "Description": "",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Steelforge_Sword",
@@ -2550,14 +2550,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ec"
+    "$oid": "661a2b6eaa68a93779e61f40"
   },
   "Name": "Strange Conduit Ring",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Found inside a chest in Inquisitor's Chamber.",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Found inside a chest in Inquisitor's Chamber.",
   "Description": "Deal an additional 👁️(1d4) with weapon attacks while you are Concentrating on a spell.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Strange_Conduit_Ring",
@@ -2565,14 +2565,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ed"
+    "$oid": "661a2b6eaa68a93779e61f41"
   },
   "Name": "Sunwalker's Gift",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Blurg. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Blurg. 💰",
   "Description": "Gain Darkvision.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Sunwalker's_Gift",
@@ -2580,14 +2580,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ee"
+    "$oid": "661a2b6eaa68a93779e61f42"
   },
   "Name": "Sussur Dagger",
   "Rarity": "Rare",
   "Type": "Dagger",
   "Properties": "1h 🏹(1d4 + 1)",
-  "Act Area": "Blighted Village",
-  "Location": "Quest Rewards by combining a Dagger with Sussur Tree Bark in the Blacksmith's Forge found in one of the buildings in the village.",
+  "Location": "Blighted Village",
+  "LocationDesc": "Quest Rewards by combining a Dagger with Sussur Tree Bark in the Blacksmith's Forge found in one of the buildings in the village.",
   "Description": "On a hit, Silence target.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Sussur_Dagger",
@@ -2595,14 +2595,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ef"
+    "$oid": "661a2b6eaa68a93779e61f43"
   },
   "Name": "Sussur Greatsword",
   "Rarity": "Rare",
   "Type": "Greatsword",
   "Properties": "2h 🔪(2d6 + 1)",
-  "Act Area": "Blighted Village",
-  "Location": "Quest Rewards by combining a Greatsword with Sussur Tree Bark in the Blacksmith's Forge found in one of the buildings in the village.",
+  "Location": "Blighted Village",
+  "LocationDesc": "Quest Rewards by combining a Greatsword with Sussur Tree Bark in the Blacksmith's Forge found in one of the buildings in the village.",
   "Description": "On a hit, Silence target.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Sussur_Greatsword",
@@ -2610,14 +2610,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9f0"
+    "$oid": "661a2b6eaa68a93779e61f44"
   },
   "Name": "Sussur Sickle",
   "Rarity": "Rare",
   "Type": "Sickle",
   "Properties": "1h 🔪(1d4 + 1)",
-  "Act Area": "Blighted Village",
-  "Location": "Quest Rewards by combining a Sickle with Sussur Tree Bark in the Blacksmith's Forge found in one of the buildings in the village.",
+  "Location": "Blighted Village",
+  "LocationDesc": "Quest Rewards by combining a Sickle with Sussur Tree Bark in the Blacksmith's Forge found in one of the buildings in the village.",
   "Description": "On a hit, Silence target.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Sussur_Sickle",
@@ -2625,14 +2625,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9f1"
+    "$oid": "661a2b6eaa68a93779e61f45"
   },
   "Name": "Svartlebee's Woundseeker",
   "Rarity": "Uncommon",
   "Type": "Greatsword",
   "Properties": "2h 🔪(2d6 + 1)",
-  "Act Area": "Waukeen's Rest",
-  "Location": "Dropped as loot by Gauntlet Yeva. 🎁",
+  "Location": "Waukeen's Rest",
+  "LocationDesc": "Dropped as loot by Gauntlet Yeva. 🎁",
   "Description": "Gains a 🎲(1d4) bonus to Attack Rolls with this weapon when attacking creatures that have already taken damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Svartlebee's_Woundseeker",
@@ -2640,14 +2640,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9f2"
+    "$oid": "661a2b6eaa68a93779e61f46"
   },
   "Name": "Swiresy Shoes",
   "Rarity": "Rare",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Goblin Camp",
-  "Location": "Sold by Grat the Trader. 💰",
+  "Location": "Goblin Camp",
+  "LocationDesc": "Sold by Grat the Trader. 💰",
   "Description": "Jump distance is increased by 1.5m / 5ft.\nAcrobatics +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Swiresy_Shoes",
@@ -2655,14 +2655,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9f3"
+    "$oid": "661a2b6eaa68a93779e61f47"
   },
   "Name": "Sword of Justice",
   "Rarity": "Uncommon",
   "Type": "Greatsword",
   "Properties": "2h 🔪(2d6 + 1)",
-  "Act Area": "Risen Road Toll House",
-  "Location": "Quest Reward or Dropped as loot by Anders. 🎁",
+  "Location": "Risen Road Toll House",
+  "LocationDesc": "Quest Reward or Dropped as loot by Anders. 🎁",
   "Description": "Cast Shield of Faith once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Sword_of_Justice",
@@ -2670,14 +2670,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9f4"
+    "$oid": "661a2b6eaa68a93779e61f48"
   },
   "Name": "Sword of Screams",
   "Rarity": "Uncommon",
   "Type": "Rapier",
   "Properties": "1h 🏹(1d8) + 👁️(1d4)",
-  "Act Area": "Grymforge",
-  "Location": "Dropped as loot by Nere. 🎁",
+  "Location": "Grymforge",
+  "LocationDesc": "Dropped as loot by Nere. 🎁",
   "Description": "",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Sword_of_Screams",
@@ -2685,14 +2685,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9f5"
+    "$oid": "661a2b6eaa68a93779e61f49"
   },
   "Name": "Tarnished Charm",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Dropped as loot by Auntie Ethel. 🎁",
+  "Location": "Druid Grove",
+  "LocationDesc": "Dropped as loot by Auntie Ethel. 🎁",
   "Description": "The DC of Death Saving Throws for the wearer is lowered from 10 to 5.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Tarnished_Charm",
@@ -2700,14 +2700,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9f6"
+    "$oid": "661a2b6eaa68a93779e61f4a"
   },
   "Name": "The Amulet of Lost Voices",
   "Rarity": "Rare",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Dank Crypt",
-  "Location": "Found in a heavy chest in the same room that Withers emerges from.",
+  "Location": "Dank Crypt",
+  "LocationDesc": "Found in a heavy chest in the same room that Withers emerges from.",
   "Description": "Cast Speak with Dead once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Amulet_of_Lost_Voices",
@@ -2715,14 +2715,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9f7"
+    "$oid": "661a2b6eaa68a93779e61f4b"
   },
   "Name": "The Baneful",
   "Rarity": "Rare",
   "Type": "Shortsword",
   "Properties": "1h 🏹(1d6 + 1)",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Blurg. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Blurg. 💰",
   "Description": "The Warlock bound to this weapon is always Proficient with it. The weapon's damage is magical.\nGain a +1 bonus to damage and Attack Rolls with this weapon.\nOn a hit, possibly inflict Bane your target.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Baneful",
@@ -2730,14 +2730,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9f8"
+    "$oid": "661a2b6eaa68a93779e61f4c"
   },
   "Name": "The Blast Pendant",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Selûnite Outpost",
-  "Location": "Dropped as loot by Dhourn. 🎁",
+  "Location": "Selûnite Outpost",
+  "LocationDesc": "Dropped as loot by Dhourn. 🎁",
   "Description": "Use a Bonus Action to consume Lightning Charges to deal additional damage on your next Lightning Spell or Cantrip once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Blast_Pendant",
@@ -2745,14 +2745,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9f9"
+    "$oid": "661a2b6eaa68a93779e61f4d"
   },
   "Name": "The Blood of Lathander",
   "Rarity": "Legendary",
   "Type": "Mace",
   "Properties": "1h 🔨(1d6 + 3)",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Quest Reward by Find the Blood of Lathander quest.",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Quest Reward by Find the Blood of Lathander quest.",
   "Description": "Regain ❤️(2d6) Hit Points when your Hit Points are reduced to 0 once per Long Rest. Allies within 9m also regain ❤️(1d6) Hit Points.\nThis weapon shines with a glowing light in a radius of 6m. In combat, fiends and undead standing in the light are Blinded.\nCast Sunbeam once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Blood_of_Lathander",
@@ -2760,14 +2760,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9fa"
+    "$oid": "661a2b6eaa68a93779e61f4e"
   },
   "Name": "The Deathstalker Mantle",
   "Rarity": "Rare",
   "Type": "Cloak",
   "Properties": "",
-  "Act Area": "The Dark Urge Origin",
-  "Location": "Given to a player using The Dark Urge Origin by Sceleritas Fel.",
+  "Location": "The Dark Urge Origin",
+  "LocationDesc": "Given to a player using The Dark Urge Origin by Sceleritas Fel.",
   "Description": "You can become Invisible for 2 turns after killing an enemy, once per turn.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Deathstalker_Mantle",
@@ -2775,14 +2775,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9fb"
+    "$oid": "661a2b6eaa68a93779e61f4f"
   },
   "Name": "The Ever-Seeing Eye",
   "Rarity": "Uncommon",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Ancient Abode",
-  "Location": "Looted from the ground in the treasure room after beating Auntie Ethel.",
+  "Location": "Ancient Abode",
+  "LocationDesc": "Looted from the ground in the treasure room after beating Auntie Ethel.",
   "Description": "Cast Protection from Evil and Good once per Short Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Ever-Seeing_Eye",
@@ -2790,14 +2790,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9fc"
+    "$oid": "661a2b6eaa68a93779e61f50"
   },
   "Name": "The Graceful Cloth (Esther)",
   "Rarity": "Rare",
   "Type": "Clothing",
   "Properties": "🛡️ 10 AC\n🛡️ + 1 AC",
-  "Act Area": "Rosymorn Monastery Trail",
-  "Location": "Sold by Lady Esther. 💰",
+  "Location": "Rosymorn Monastery Trail",
+  "LocationDesc": "Sold by Lady Esther. 💰",
   "Description": "Gain a +1 bonus to Dexterity Saving Throws.\nJump distance is increased by 1.5m / 5ft.\nDexterity +2 (up to 20)",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Graceful_Cloth_(Esther)",
@@ -2805,14 +2805,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9fd"
+    "$oid": "661a2b6eaa68a93779e61f51"
   },
   "Name": "The Joltshooter",
   "Rarity": "Rare",
   "Type": "Longbow",
   "Properties": "2h 🏹(1d8)",
-  "Act Area": "Waukeen's Rest",
-  "Location": "Optional Quest Reward by Counsellor Florrick.",
+  "Location": "Waukeen's Rest",
+  "LocationDesc": "Optional Quest Reward by Counsellor Florrick.",
   "Description": "When you deal damage with this weapon, gain 2 Lightning Charges.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Joltshooter",
@@ -2820,14 +2820,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9fe"
+    "$oid": "661a2b6eaa68a93779e61f52"
   },
   "Name": "The Jolty Vest",
   "Rarity": "Rare",
   "Type": "Medium Armour",
   "Properties": "🛡️ 13 AC",
-  "Act Area": "Zhentarim Hideout",
-  "Location": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
+  "Location": "Zhentarim Hideout",
+  "LocationDesc": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
   "Description": "When you are hit with a melee attack while having Lightning Charges, the attacker must succeed a Dexterity Saving Throw or become Shocked.\nYou take 1 less Slashing damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Jolty_Vest",
@@ -2835,14 +2835,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bd9ff"
+    "$oid": "661a2b6eaa68a93779e61f53"
   },
   "Name": "The Lifebringer",
   "Rarity": "Uncommon",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Blurg. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Blurg. 💰",
   "Description": "Gain ❤️(3) Temporary Hit Points when you gain Lightning Charges.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Lifebringer",
@@ -2850,14 +2850,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda00"
+    "$oid": "661a2b6eaa68a93779e61f54"
   },
   "Name": "The Oakfather's Embrace",
   "Rarity": "Uncommon",
   "Type": "Medium Armour",
   "Properties": "🛡️ 13 AC",
-  "Act Area": "Owlbear Nest",
-  "Location": "Found on a headless skeleton.",
+  "Location": "Owlbear Nest",
+  "LocationDesc": "Found on a headless skeleton.",
   "Description": "Deal ☀️(1d6) to the attacker if they are undead. Attackers that are beasts receive an additional ☀️(1d6).",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Oakfather's_Embrace",
@@ -2865,14 +2865,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda01"
+    "$oid": "661a2b6eaa68a93779e61f55"
   },
   "Name": "The Protecty Sparkswall",
   "Rarity": "Rare",
   "Type": "Clothing",
   "Properties": "🛡️ 10 AC",
-  "Act Area": "Grymforge",
-  "Location": "Found in a Gilded Chest at the end of the trapped bridge.",
+  "Location": "Grymforge",
+  "LocationDesc": "Found in a Gilded Chest at the end of the trapped bridge.",
   "Description": "Gain a +1 bonus to Spell Save DC.\nGain a +1 bonus to Saving Throws and 🛡️ + 1 AC when you have Lightning Charges.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Protecty_Sparkswall",
@@ -2880,14 +2880,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda02"
+    "$oid": "661a2b6eaa68a93779e61f56"
   },
   "Name": "The Real Sparky Sparkswall",
   "Rarity": "Uncommon",
   "Type": "Shield",
   "Properties": "🛡️ + 2 AC",
-  "Act Area": "Grymforge",
-  "Location": "Found on a locked and trapped chest.",
+  "Location": "Grymforge",
+  "LocationDesc": "Found on a locked and trapped chest.",
   "Description": "Use an Action to consume 3 Lightning Charges to Jolts nearby enemies and deal ⚡(1d4) once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Real_Sparky_Sparkswall",
@@ -2895,14 +2895,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda03"
+    "$oid": "661a2b6eaa68a93779e61f57"
   },
   "Name": "The Shadespell Circlet",
   "Rarity": "Uncommon",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Myconid Colony",
-  "Location": "Sold by Omeluum. 💰",
+  "Location": "Myconid Colony",
+  "LocationDesc": "Sold by Omeluum. 💰",
   "Description": "While you are obscured in shadow, your spells gain a +1 bonus to Spell Save DC, making them more likely to succeed.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Shadespell_Circlet",
@@ -2910,14 +2910,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda04"
+    "$oid": "661a2b6eaa68a93779e61f58"
   },
   "Name": "The Skinburster",
   "Rarity": "Uncommon",
   "Type": "Halberd",
   "Properties": "2h 🔪(1d10 + 1)",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Found inside a chest in Inquisitor's Chamber.",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Found inside a chest in Inquisitor's Chamber.",
   "Description": "On a hit, gain Force Conduit for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Skinburster",
@@ -2925,14 +2925,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda05"
+    "$oid": "661a2b6eaa68a93779e61f59"
   },
   "Name": "The Sparkle Hands",
   "Rarity": "Rare",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Sunlit Wetlands",
-  "Location": "Found in a wooden chest.",
+  "Location": "Sunlit Wetlands",
+  "LocationDesc": "Found in a wooden chest.",
   "Description": "On a hit with an unarmed attack, gain 2 Lightning Charges.\nAdvantage on Attack Rolls against metal constructs and enemies wearing metal armour while you have Lightning Charges.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Sparkle_Hands",
@@ -2940,14 +2940,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda06"
+    "$oid": "661a2b6eaa68a93779e61f5a"
   },
   "Name": "The Sparkswall",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Arcane Tower",
-  "Location": "Found in a gilded chest in the Arcane Tower's basement.",
+  "Location": "Arcane Tower",
+  "LocationDesc": "Found in a gilded chest in the Arcane Tower's basement.",
   "Description": "Immune to being Electrocuted.\nResistance to Lightning damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Sparkswall",
@@ -2955,14 +2955,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda07"
+    "$oid": "661a2b6eaa68a93779e61f5b"
   },
   "Name": "The Sparky Points",
   "Rarity": "Rare",
   "Type": "Trident",
   "Properties": "1h 🏹(1d6)\n2h 🏹(1d8)",
-  "Act Area": "Waukeen's Rest",
-  "Location": "Optional Quest Reward by Counsellor Florrick.",
+  "Location": "Waukeen's Rest",
+  "LocationDesc": "Optional Quest Reward by Counsellor Florrick.",
   "Description": "When you deal damage with this weapon, gain 2 Lightning Charges.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Sparky_Points",
@@ -2970,14 +2970,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda08"
+    "$oid": "661a2b6eaa68a93779e61f5c"
   },
   "Name": "The Spectator Eyes",
   "Rarity": "Very Rare",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Underdark",
-  "Location": "Dropped as loot by the Spectator. 🎁",
+  "Location": "Underdark",
+  "LocationDesc": "Dropped as loot by the Spectator. 🎁",
   "Description": "Cast Ray of Fear once per Long Rest.\nCast Wounding Ray once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Spectator_Eyes",
@@ -2985,14 +2985,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda09"
+    "$oid": "661a2b6eaa68a93779e61f5d"
   },
   "Name": "The Speedy Lightfeet",
   "Rarity": "Rare",
   "Type": "Medium Boots",
   "Properties": "",
-  "Act Area": "Blighted Village",
-  "Location": "Found inside a Heavy Chest in the cellar behind the windmill.",
+  "Location": "Blighted Village",
+  "LocationDesc": "Found inside a Heavy Chest in the cellar behind the windmill.",
   "Description": "When you Dash or take a similar action, gain 3 Lightning Charges.\nAthletics +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Speedy_Lightfeet",
@@ -3000,14 +3000,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda0a"
+    "$oid": "661a2b6eaa68a93779e61f5e"
   },
   "Name": "The Spellsparkler",
   "Rarity": "Rare",
   "Type": "Quarterstaff",
   "Properties": "1h 🔨(1d6)\n2h 🔨(1d8)",
-  "Act Area": "Waukeen's Rest",
-  "Location": "Optional Quest Reward by Counsellor Florrick.",
+  "Location": "Waukeen's Rest",
+  "LocationDesc": "Optional Quest Reward by Counsellor Florrick.",
   "Description": "When you deal damage with a spell or cantrip, gain 2 Lightning Charges.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Spellsparkler",
@@ -3015,14 +3015,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda0b"
+    "$oid": "661a2b6eaa68a93779e61f5f"
   },
   "Name": "The Watcher's Guide",
   "Rarity": "Uncommon",
   "Type": "Spear",
   "Properties": "1h 🏹(1d6)\n2h 🏹(1d8)",
-  "Act Area": "Dank Crypt",
-  "Location": "Found in a trapped sarcophagus.",
+  "Location": "Dank Crypt",
+  "LocationDesc": "Found in a trapped sarcophagus.",
   "Description": "On a miss, the next Attack Roll against that target gains True Strike.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Watcher's_Guide",
@@ -3030,14 +3030,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda0c"
+    "$oid": "661a2b6eaa68a93779e61f60"
   },
   "Name": "The Watersparkers",
   "Rarity": "Rare",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Found in a chest near Minthara.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Found in a chest near Minthara.",
   "Description": "Water becomes electrified when you stand in it during combat.\nWhen you start your turn on an electrified surface, gain 3 Lightning Charges.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Watersparkers",
@@ -3045,14 +3045,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda0d"
+    "$oid": "661a2b6eaa68a93779e61f61"
   },
   "Name": "The Whispering Promise",
   "Rarity": "Uncommon",
   "Type": "Ring",
   "Properties": "",
-  "Act Area": "Goblin Camp",
-  "Location": "Sold by main Merchants, item in Merchant Item Pool. 💰",
+  "Location": "Goblin Camp",
+  "LocationDesc": "Sold by main Merchants, item in Merchant Item Pool. 💰",
   "Description": "When you heal a creature, grant them Bless for 10 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/The_Whispering_Promise",
@@ -3060,14 +3060,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda0e"
+    "$oid": "661a2b6eaa68a93779e61f62"
   },
   "Name": "Titanstring Bow",
   "Rarity": "Rare",
   "Type": "Longbow",
   "Properties": "2h 🏹(1d8 + 1)",
-  "Act Area": "Zhentarim Hideout",
-  "Location": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
+  "Location": "Zhentarim Hideout",
+  "LocationDesc": "Sold by Brem. Only available after completing Quest by Zarys. 💰",
   "Description": "Deal an additional 🎲(Strength Modifier) with this weapon.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Titanstring_Bow",
@@ -3075,14 +3075,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda0f"
+    "$oid": "661a2b6eaa68a93779e61f63"
   },
   "Name": "Uncovered Mysteries",
   "Rarity": "Rare",
   "Type": "Amulet",
   "Properties": "",
-  "Act Area": "Arcane Tower",
-  "Location": "Found inside a small gilded chest on the Arcane Tower's 1st floor.",
+  "Location": "Arcane Tower",
+  "LocationDesc": "Found inside a small gilded chest on the Arcane Tower's 1st floor.",
   "Description": "Cast Detect Thoughts once per Long Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Uncovered_Mysteries",
@@ -3090,14 +3090,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda10"
+    "$oid": "661a2b6eaa68a93779e61f64"
   },
   "Name": "Unseen Menace",
   "Rarity": "Rare",
   "Type": "Pike",
   "Properties": "2h 🏹(1d10 + 1)",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Sold by A'jak'nir Jeera. 💰",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Sold by A'jak'nir Jeera. 💰",
   "Description": "This weapon is Invisible while equipped. It loses this property for 2 turns on a missed Attack Rolls.\nWhile Invisible, you are Immune to Disarm, gain Advantage on Attack Rolls and you land a Critical Hit when rolling a 19.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Unseen_Menace",
@@ -3105,14 +3105,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda11"
+    "$oid": "661a2b6eaa68a93779e61f65"
   },
   "Name": "Varsh Ko'kuu's Boots",
   "Rarity": "Uncommon",
   "Type": "Boots",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Dropped as loot or given to you by Varsh Ko'kuu. 🎁",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Dropped as loot or given to you by Varsh Ko'kuu. 🎁",
   "Description": "Immune to Acidic Surfaces.\nResistance to Acid damage.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Varsh_Ko'kuu's_Boots",
@@ -3120,14 +3120,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda12"
+    "$oid": "661a2b6eaa68a93779e61f66"
   },
   "Name": "Very Heavy Greataxe",
   "Rarity": "Uncommon",
   "Type": "Greataxe",
   "Properties": "2h 🔪(1d12)",
-  "Act Area": "Blighted Village",
-  "Location": "Dropped as loot by Fezzerk. 🎁",
+  "Location": "Blighted Village",
+  "LocationDesc": "Dropped as loot by Fezzerk. 🎁",
   "Description": "Gain Gargantuan Cleave weapon action.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Very_Heavy_Greataxe",
@@ -3135,14 +3135,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda13"
+    "$oid": "661a2b6eaa68a93779e61f67"
   },
   "Name": "Vision of the Absolute",
   "Rarity": "Uncommon",
   "Type": "Spear",
   "Properties": "1h 🏹(1d6)\n2h 🏹(1d8)",
-  "Act Area": "Druid Grove/Ownbear Nest",
-  "Location": "Combine the Shaft of a Broken Spear found on the body of Edowin in the Forest west of the Druid Grove and the Head of a Broken Spear looted from the Owlbear in the Owlbear Nest.",
+  "Location": "Druid Grove/Ownbear Nest",
+  "LocationDesc": "Combine the Shaft of a Broken Spear found on the body of Edowin in the Forest west of the Druid Grove and the Head of a Broken Spear looted from the Owlbear in the Owlbear Nest.",
   "Description": "On a hit, the target must succeed a Dexterity Saving Throw or become Blinded. \nDeals an additional 🏹(2d6) to creatures that have multiple sets of eyes.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Vision_of_the_Absolute",
@@ -3150,14 +3150,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda14"
+    "$oid": "661a2b6eaa68a93779e61f68"
   },
   "Name": "Vital Conduit Boots",
   "Rarity": "Rare",
   "Type": "Medium Boots",
   "Properties": "",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Sold by A'jak'nir Jeera. 💰",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Sold by A'jak'nir Jeera. 💰",
   "Description": "Gain ❤️(8) temporary Hit Points when you cast a Spell that requires Concentration.\nAthletics +1",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Vital_Conduit_Boots",
@@ -3165,14 +3165,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda15"
+    "$oid": "661a2b6eaa68a93779e61f69"
   },
   "Name": "Wapira's Crown",
   "Rarity": "Uncommon",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Druid Grove",
-  "Location": "Quest Reward by Zevlor.",
+  "Location": "Druid Grove",
+  "LocationDesc": "Quest Reward by Zevlor.",
   "Description": "Regain ❤️(1d6) Hit Points when you heal another creature.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Wapira's_Crown",
@@ -3180,14 +3180,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda16"
+    "$oid": "661a2b6eaa68a93779e61f6a"
   },
   "Name": "Warped Headband of Intellect",
   "Rarity": "Uncommon",
   "Type": "Helmet",
   "Properties": "",
-  "Act Area": "Blighted Village",
-  "Location": "Dropped as loot by Lump the Enlightened. 🎁",
+  "Location": "Blighted Village",
+  "LocationDesc": "Dropped as loot by Lump the Enlightened. 🎁",
   "Description": "Increases Intelligence to 17.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Warped_Headband_of_Intellect",
@@ -3195,14 +3195,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda17"
+    "$oid": "661a2b6eaa68a93779e61f6b"
   },
   "Name": "Winter's Clutches",
   "Rarity": "Uncommon",
   "Type": "Gloves",
   "Properties": "",
-  "Act Area": "Rosymorn Monastery Trail",
-  "Location": "Sold by Lady Esther. 💰",
+  "Location": "Rosymorn Monastery Trail",
+  "LocationDesc": "Sold by Lady Esther. 💰",
   "Description": "When you deal Cold damage, inflict Encrusted with Frost for 2 turns.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Winter's_Clutches",
@@ -3210,14 +3210,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda18"
+    "$oid": "661a2b6eaa68a93779e61f6c"
   },
   "Name": "Witchbreaker",
   "Rarity": "Uncommon",
   "Type": "Battleaxe",
   "Properties": "1h 🔪(1d8 + 1)\n2h 🔪(1d10 + 1)",
-  "Act Area": "Crèche Y'llek",
-  "Location": "Sold by A'jak'nir Jeera. 💰",
+  "Location": "Crèche Y'llek",
+  "LocationDesc": "Sold by A'jak'nir Jeera. 💰",
   "Description": "Advantage on Attack Rolls against concentrating creatures.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Witchbreaker",
@@ -3225,14 +3225,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda19"
+    "$oid": "661a2b6eaa68a93779e61f6d"
   },
   "Name": "Wondrous Gloves",
   "Rarity": "Rare",
   "Type": "Gloves",
   "Properties": "🛡️ + 1 AC",
-  "Act Area": "Grymforge",
-  "Location": "Dropped as loot by a mimic disguised as a chest. 🎁",
+  "Location": "Grymforge",
+  "LocationDesc": "Dropped as loot by a mimic disguised as a chest. 🎁",
   "Description": "Gain 1 more use of Bardic Inspiration.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Wondrous_Gloves",
@@ -3240,14 +3240,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda1a"
+    "$oid": "661a2b6eaa68a93779e61f6e"
   },
   "Name": "Wood Woad Shield",
   "Rarity": "Uncommon",
   "Type": "Shield",
   "Properties": "🛡️ + 2 AC",
-  "Act Area": "Sunlit Wetlands",
-  "Location": "Dropped as loot by Wood Woads. 🎁",
+  "Location": "Sunlit Wetlands",
+  "LocationDesc": "Dropped as loot by Wood Woads. 🎁",
   "Description": "Use a Bonus Action to attack and possibly Ensnare your target once per Short Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Wood_Woad_Shield",
@@ -3255,14 +3255,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda1b"
+    "$oid": "661a2b6eaa68a93779e61f6f"
   },
   "Name": "Worgfang",
   "Rarity": "Uncommon",
   "Type": "Dagger",
   "Properties": "1h 🏹(1d4)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Found in a pile of bones in one of the cells within the Worg Pens.",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Found in a pile of bones in one of the cells within the Worg Pens.",
   "Description": "Goblins have Disadvantage on Attack Rolls against you.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Worgfang",
@@ -3270,14 +3270,14 @@
 },
 {
   "_id": {
-    "$oid": "6610549f057521705c7bda1c"
+    "$oid": "661a2b6eaa68a93779e61f70"
   },
   "Name": "Xyanyde",
   "Rarity": "Uncommon",
   "Type": "Mace",
   "Properties": "1h 🔨(1d6)",
-  "Act Area": "Shattered Sanctum",
-  "Location": "Dropped as loot by Minthara. 🎁",
+  "Location": "Shattered Sanctum",
+  "LocationDesc": "Dropped as loot by Minthara. 🎁",
   "Description": "On a miss, automatically Cast Faerie Fire on the target (for 2 turns) once per Short Rest.",
   "act": "Act 1",
   "wiki_link": "https://bg3.wiki/wiki/Xyanyde",
@@ -3285,7 +3285,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda1d"
+    "$oid": "661a2bd8aa68a93779e61f71"
   },
   "Name": "Acrobat Shoes",
   "Rarity": "Rare",
@@ -3299,7 +3299,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda1e"
+    "$oid": "661a2bd8aa68a93779e61f72"
   },
   "Name": "Amulet of the Harpers",
   "Rarity": "Rare",
@@ -3313,7 +3313,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda1f"
+    "$oid": "661a2bd8aa68a93779e61f73"
   },
   "Name": "Armour of Devotion",
   "Rarity": "Rare",
@@ -3327,7 +3327,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda20"
+    "$oid": "661a2bd8aa68a93779e61f74"
   },
   "Name": "Assassin's Shortsword",
   "Rarity": "Uncommon",
@@ -3341,7 +3341,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda21"
+    "$oid": "661a2bd8aa68a93779e61f75"
   },
   "Name": "Argument Solver",
   "Rarity": "Uncommon",
@@ -3355,7 +3355,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda22"
+    "$oid": "661a2bd8aa68a93779e61f76"
   },
   "Name": "Barkskin Armour",
   "Rarity": "Rare",
@@ -3369,7 +3369,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda23"
+    "$oid": "661a2bd8aa68a93779e61f77"
   },
   "Name": "Bided Time",
   "Rarity": "Uncommon",
@@ -3383,7 +3383,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda24"
+    "$oid": "661a2bd8aa68a93779e61f78"
   },
   "Name": "Bigboy's Chew Toy",
   "Rarity": "Rare",
@@ -3397,7 +3397,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda25"
+    "$oid": "661a2bd8aa68a93779e61f79"
   },
   "Name": "Blade of Oppressed Souls",
   "Rarity": "Rare",
@@ -3411,7 +3411,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda26"
+    "$oid": "661a2bd8aa68a93779e61f7a"
   },
   "Name": "Blood-Bound Blade",
   "Rarity": "Rare",
@@ -3425,7 +3425,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda27"
+    "$oid": "661a2bd8aa68a93779e61f7b"
   },
   "Name": "Boots of Apparent Death",
   "Rarity": "Rare",
@@ -3439,7 +3439,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda28"
+    "$oid": "661a2bd8aa68a93779e61f7c"
   },
   "Name": "Boots of Arcane Bolstering",
   "Rarity": "Rare",
@@ -3453,7 +3453,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda29"
+    "$oid": "661a2bd8aa68a93779e61f7d"
   },
   "Name": "Boots of Brilliance",
   "Rarity": "Rare",
@@ -3467,7 +3467,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda2a"
+    "$oid": "661a2bd8aa68a93779e61f7e"
   },
   "Name": "Braindrain Gloves",
   "Rarity": "Uncommon",
@@ -3481,7 +3481,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda2b"
+    "$oid": "661a2bd8aa68a93779e61f7f"
   },
   "Name": "Browbeaten Circlet",
   "Rarity": "Uncommon",
@@ -3495,7 +3495,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda2c"
+    "$oid": "661a2bd8aa68a93779e61f80"
   },
   "Name": "Callous Glow Ring",
   "Rarity": "Uncommon",
@@ -3509,7 +3509,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda2d"
+    "$oid": "661a2bd8aa68a93779e61f81"
   },
   "Name": "Charge-Bound Warhammer",
   "Rarity": "Rare",
@@ -3523,7 +3523,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda2e"
+    "$oid": "661a2bd8aa68a93779e61f82"
   },
   "Name": "Cindersnap Gloves",
   "Rarity": "Rare",
@@ -3537,7 +3537,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda2f"
+    "$oid": "661a2bd8aa68a93779e61f83"
   },
   "Name": "Circle of Bones",
   "Rarity": "Rare",
@@ -3551,7 +3551,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda30"
+    "$oid": "661a2bd8aa68a93779e61f84"
   },
   "Name": "Circlet of Hunting",
   "Rarity": "Very Rare",
@@ -3565,7 +3565,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda31"
+    "$oid": "661a2bd8aa68a93779e61f85"
   },
   "Name": "Circlet of Mental Anguish",
   "Rarity": "Rare",
@@ -3579,7 +3579,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda32"
+    "$oid": "661a2bd8aa68a93779e61f86"
   },
   "Name": "Cloak of Cunning Brume",
   "Rarity": "Uncommon",
@@ -3593,7 +3593,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda33"
+    "$oid": "661a2bd8aa68a93779e61f87"
   },
   "Name": "Cloak of Elemental Absorption",
   "Rarity": "Uncommon",
@@ -3607,7 +3607,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda34"
+    "$oid": "661a2bd8aa68a93779e61f88"
   },
   "Name": "Cloak of Protection",
   "Rarity": "Uncommon",
@@ -3621,7 +3621,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda35"
+    "$oid": "661a2bd8aa68a93779e61f89"
   },
   "Name": "Coldbrim Hat",
   "Rarity": "Uncommon",
@@ -3635,7 +3635,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda36"
+    "$oid": "661a2bd8aa68a93779e61f8a"
   },
   "Name": "Coruscation Ring",
   "Rarity": "Uncommon",
@@ -3649,7 +3649,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda37"
+    "$oid": "661a2bd8aa68a93779e61f8b"
   },
   "Name": "Covert Cowl",
   "Rarity": "Uncommon",
@@ -3663,7 +3663,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda38"
+    "$oid": "661a2bd8aa68a93779e61f8c"
   },
   "Name": "Cruel Sting",
   "Rarity": "Rare",
@@ -3677,7 +3677,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda39"
+    "$oid": "661a2bd8aa68a93779e61f8d"
   },
   "Name": "Dark Justiciar Boots",
   "Rarity": "Rare",
@@ -3691,7 +3691,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda3a"
+    "$oid": "661a2bd8aa68a93779e61f8e"
   },
   "Name": "Dark Justiciar Gauntlets (Rare)",
   "Rarity": "Rare",
@@ -3705,7 +3705,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda3b"
+    "$oid": "661a2bd8aa68a93779e61f8f"
   },
   "Name": "Dark Justiciar Half-Plate (Very Rare)",
   "Rarity": "Very Rare",
@@ -3719,7 +3719,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda3c"
+    "$oid": "661a2bd8aa68a93779e61f90"
   },
   "Name": "Dark Justiciar Helmet",
   "Rarity": "Very Rare",
@@ -3733,7 +3733,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda3d"
+    "$oid": "661a2bd8aa68a93779e61f91"
   },
   "Name": "Darkfire Shortbow",
   "Rarity": "Rare",
@@ -3747,7 +3747,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda3e"
+    "$oid": "661a2bd8aa68a93779e61f92"
   },
   "Name": "Defender Greataxe",
   "Rarity": "Rare",
@@ -3761,7 +3761,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda3f"
+    "$oid": "661a2bd8aa68a93779e61f93"
   },
   "Name": "Derivation Cloak",
   "Rarity": "Rare",
@@ -3775,7 +3775,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda40"
+    "$oid": "661a2bd8aa68a93779e61f94"
   },
   "Name": "Drakethroat Glaive",
   "Rarity": "Rare",
@@ -3789,7 +3789,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda41"
+    "$oid": "661a2bd8aa68a93779e61f95"
   },
   "Name": "Dwarven Splintmail",
   "Rarity": "Rare",
@@ -3803,7 +3803,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda42"
+    "$oid": "661a2bd8aa68a93779e61f96"
   },
   "Name": "Enraging Heart Garb",
   "Rarity": "Rare",
@@ -3817,7 +3817,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda43"
+    "$oid": "661a2bd8aa68a93779e61f97"
   },
   "Name": "Evasive Shoes",
   "Rarity": "Rare",
@@ -3831,7 +3831,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda44"
+    "$oid": "661a2bd8aa68a93779e61f98"
   },
   "Name": "Eversight Ring",
   "Rarity": "Uncommon",
@@ -3845,7 +3845,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda45"
+    "$oid": "661a2bd8aa68a93779e61f99"
   },
   "Name": "Family Ring",
   "Rarity": "Uncommon",
@@ -3859,7 +3859,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda46"
+    "$oid": "661a2bd8aa68a93779e61f9a"
   },
   "Name": "Fireheart",
   "Rarity": "Uncommon",
@@ -3873,7 +3873,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda47"
+    "$oid": "661a2bd8aa68a93779e61f9b"
   },
   "Name": "Firzu's Ring of Trading",
   "Rarity": "Uncommon",
@@ -3887,7 +3887,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda48"
+    "$oid": "661a2bd8aa68a93779e61f9c"
   },
   "Name": "Fistbreaker Helm",
   "Rarity": "Rare",
@@ -3901,7 +3901,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda49"
+    "$oid": "661a2bd8aa68a93779e61f9d"
   },
   "Name": "Flawed Helldusk Armour",
   "Rarity": "Rare",
@@ -3915,7 +3915,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda4a"
+    "$oid": "661a2bd8aa68a93779e61f9e"
   },
   "Name": "Flawed Helldusk Gloves",
   "Rarity": "Rare",
@@ -3929,7 +3929,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda4b"
+    "$oid": "661a2bd8aa68a93779e61f9f"
   },
   "Name": "Flawed Helldusk Helmet",
   "Rarity": "Rare",
@@ -3943,7 +3943,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda4c"
+    "$oid": "661a2bd8aa68a93779e61fa0"
   },
   "Name": "Fleshmelter Cloak",
   "Rarity": "Uncommon",
@@ -3957,7 +3957,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda4d"
+    "$oid": "661a2bd8aa68a93779e61fa1"
   },
   "Name": "Frost Prince",
   "Rarity": "Uncommon",
@@ -3971,7 +3971,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda4e"
+    "$oid": "661a2bd8aa68a93779e61fa2"
   },
   "Name": "Gauntlets of Surging Accuracy",
   "Rarity": "Rare",
@@ -3985,7 +3985,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda4f"
+    "$oid": "661a2bd8aa68a93779e61fa3"
   },
   "Name": "Gloomstrand Shield",
   "Rarity": "Uncommon",
@@ -3999,7 +3999,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda50"
+    "$oid": "661a2bd8aa68a93779e61fa4"
   },
   "Name": "Gloves of Battlemage's Power",
   "Rarity": "Rare",
@@ -4013,7 +4013,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda51"
+    "$oid": "661a2bd8aa68a93779e61fa5"
   },
   "Name": "Gloves of Crushing",
   "Rarity": "Rare",
@@ -4027,7 +4027,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda52"
+    "$oid": "661a2bd8aa68a93779e61fa6"
   },
   "Name": "Gloves of the Automaton",
   "Rarity": "Rare",
@@ -4041,7 +4041,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda53"
+    "$oid": "661a2bd8aa68a93779e61fa7"
   },
   "Name": "Gloves of the Balanced Hands",
   "Rarity": "Rare",
@@ -4055,7 +4055,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda54"
+    "$oid": "661a2bd8aa68a93779e61fa8"
   },
   "Name": "Gloves of Battlemage's Power",
   "Rarity": "Rare",
@@ -4069,7 +4069,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda55"
+    "$oid": "661a2bd8aa68a93779e61fa9"
   },
   "Name": "Gloves of The Duellist",
   "Rarity": "Rare",
@@ -4083,7 +4083,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda56"
+    "$oid": "661a2bd8aa68a93779e61faa"
   },
   "Name": "Halberd of Vigilance",
   "Rarity": "Very Rare",
@@ -4097,7 +4097,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda57"
+    "$oid": "661a2bd8aa68a93779e61fab"
   },
   "Name": "Hammergrim Mist Amulet",
   "Rarity": "Uncommon",
@@ -4111,7 +4111,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda58"
+    "$oid": "661a2bd8aa68a93779e61fac"
   },
   "Name": "Harmonium Halberd",
   "Rarity": "Rare",
@@ -4125,7 +4125,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda59"
+    "$oid": "661a2bd8aa68a93779e61fad"
   },
   "Name": "Hat of Fire Acuity",
   "Rarity": "Uncommon",
@@ -4139,7 +4139,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda5a"
+    "$oid": "661a2bd8aa68a93779e61fae"
   },
   "Name": "Hat of Storm Scion's Power",
   "Rarity": "Uncommon",
@@ -4153,7 +4153,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda5b"
+    "$oid": "661a2bd8aa68a93779e61faf"
   },
   "Name": "Hat of Uninhibited Kushigo",
   "Rarity": "Rare",
@@ -4167,7 +4167,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda5c"
+    "$oid": "661a2bd8aa68a93779e61fb0"
   },
   "Name": "Hellfire Hand Crossbow",
   "Rarity": "Very Rare",
@@ -4181,7 +4181,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda5d"
+    "$oid": "661a2bd8aa68a93779e61fb1"
   },
   "Name": "Helmet of Arcane Acuity",
   "Rarity": "Uncommon",
@@ -4195,7 +4195,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda5e"
+    "$oid": "661a2bd8aa68a93779e61fb2"
   },
   "Name": "Hr'a'cknir Bracers",
   "Rarity": "Very Rare",
@@ -4209,7 +4209,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda5f"
+    "$oid": "661a2bd8aa68a93779e61fb3"
   },
   "Name": "Icebite Robe",
   "Rarity": "Rare",
@@ -4223,7 +4223,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda60"
+    "$oid": "661a2bd8aa68a93779e61fb4"
   },
   "Name": "Ichorous Gloves",
   "Rarity": "Uncommon",
@@ -4237,7 +4237,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda61"
+    "$oid": "661a2bd8aa68a93779e61fb5"
   },
   "Name": "Incandescent Staff",
   "Rarity": "Very Rare",
@@ -4251,7 +4251,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda62"
+    "$oid": "661a2bd8aa68a93779e61fb6"
   },
   "Name": "Infernal Rapier",
   "Rarity": "Very Rare",
@@ -4265,7 +4265,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda63"
+    "$oid": "661a2bd8aa68a93779e61fb7"
   },
   "Name": "Ironvine Shield",
   "Rarity": "Uncommon",
@@ -4279,7 +4279,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda64"
+    "$oid": "661a2bd8aa68a93779e61fb8"
   },
   "Name": "Ironwood Club",
   "Rarity": "Uncommon",
@@ -4293,7 +4293,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda65"
+    "$oid": "661a2bd8aa68a93779e61fb9"
   },
   "Name": "Jhannyl's Gloves",
   "Rarity": "Rare",
@@ -4307,7 +4307,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda66"
+    "$oid": "661a2bd8aa68a93779e61fba"
   },
   "Name": "Justiciar's Greatshield",
   "Rarity": "Rare",
@@ -4321,7 +4321,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda67"
+    "$oid": "661a2bd8aa68a93779e61fbb"
   },
   "Name": "Justiciar's Scimitar",
   "Rarity": "Very Rare",
@@ -4335,7 +4335,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda68"
+    "$oid": "661a2bd8aa68a93779e61fbc"
   },
   "Name": "Ketheric's Shield",
   "Rarity": "Rare",
@@ -4349,7 +4349,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda69"
+    "$oid": "661a2bd8aa68a93779e61fbd"
   },
   "Name": "Ketheric's Warhammer",
   "Rarity": "Rare",
@@ -4363,7 +4363,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda6a"
+    "$oid": "661a2bd8aa68a93779e61fbe"
   },
   "Name": "Killer's Sweetheart",
   "Rarity": "Very Rare",
@@ -4377,7 +4377,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda6b"
+    "$oid": "661a2bd8aa68a93779e61fbf"
   },
   "Name": "Least Expected",
   "Rarity": "Rare",
@@ -4391,7 +4391,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda6c"
+    "$oid": "661a2bd8aa68a93779e61fc0"
   },
   "Name": "Lightning Jabber",
   "Rarity": "Uncommon",
@@ -4405,7 +4405,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda6d"
+    "$oid": "661a2bd8aa68a93779e61fc1"
   },
   "Name": "Luminous Gloves",
   "Rarity": "Uncommon",
@@ -4419,7 +4419,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda6e"
+    "$oid": "661a2bd8aa68a93779e61fc2"
   },
   "Name": "Marksmanship Hat",
   "Rarity": "Uncommon",
@@ -4433,7 +4433,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda6f"
+    "$oid": "661a2bd8aa68a93779e61fc3"
   },
   "Name": "Moon Devotion Robe",
   "Rarity": "Very Rare",
@@ -4447,7 +4447,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda70"
+    "$oid": "661a2bd8aa68a93779e61fc4"
   },
   "Name": "Moonlight Glaive",
   "Rarity": "Rare",
@@ -4461,7 +4461,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda71"
+    "$oid": "661a2bd8aa68a93779e61fc5"
   },
   "Name": "Myrkulite Scourge",
   "Rarity": "Uncommon",
@@ -4475,7 +4475,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda72"
+    "$oid": "661a2bd8aa68a93779e61fc6"
   },
   "Name": "Ne'er Misser",
   "Rarity": "Rare",
@@ -4489,7 +4489,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda73"
+    "$oid": "661a2bd8aa68a93779e61fc7"
   },
   "Name": "Obsidian Laced Robe",
   "Rarity": "Rare",
@@ -4503,7 +4503,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda74"
+    "$oid": "661a2bd8aa68a93779e61fc8"
   },
   "Name": "Penumbral Armour",
   "Rarity": "Rare",
@@ -4517,7 +4517,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda75"
+    "$oid": "661a2bd8aa68a93779e61fc9"
   },
   "Name": "Poisoner's Gloves",
   "Rarity": "Rare",
@@ -4531,7 +4531,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda76"
+    "$oid": "661a2bd8aa68a93779e61fca"
   },
   "Name": "Potent Robe",
   "Rarity": "Very Rare",
@@ -4545,7 +4545,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda77"
+    "$oid": "661a2bd8aa68a93779e61fcb"
   },
   "Name": "Protective Plate",
   "Rarity": "Uncommon",
@@ -4559,7 +4559,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda78"
+    "$oid": "661a2bd8aa68a93779e61fcc"
   },
   "Name": "Psionic Ward Armour",
   "Rarity": "Rare",
@@ -4573,7 +4573,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda79"
+    "$oid": "661a2bd8aa68a93779e61fcd"
   },
   "Name": "Punch-Drunk Bastard",
   "Rarity": "Rare",
@@ -4587,7 +4587,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda7a"
+    "$oid": "661a2bd8aa68a93779e61fce"
   },
   "Name": "Rat Bat",
   "Rarity": "Rare",
@@ -4601,7 +4601,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda7b"
+    "$oid": "661a2bd8aa68a93779e61fcf"
   },
   "Name": "Raven Gloves",
   "Rarity": "Rare",
@@ -4615,7 +4615,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda7c"
+    "$oid": "661a2bd8aa68a93779e61fd0"
   },
   "Name": "Reaper's Embrace",
   "Rarity": "Very Rare",
@@ -4629,7 +4629,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda7d"
+    "$oid": "661a2bd8aa68a93779e61fd1"
   },
   "Name": "Render of Mind and Body",
   "Rarity": "Uncommon",
@@ -4643,7 +4643,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda7e"
+    "$oid": "661a2bd8aa68a93779e61fd2"
   },
   "Name": "Ring of Exalted Marrow",
   "Rarity": "Rare",
@@ -4657,7 +4657,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda7f"
+    "$oid": "661a2bd8aa68a93779e61fd3"
   },
   "Name": "Ring of Free Action",
   "Rarity": "Rare",
@@ -4671,7 +4671,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda80"
+    "$oid": "661a2bd8aa68a93779e61fd4"
   },
   "Name": "Ring of Geniality",
   "Rarity": "Uncommon",
@@ -4685,7 +4685,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda81"
+    "$oid": "661a2bd8aa68a93779e61fd5"
   },
   "Name": "Ring of Mental Inhibition",
   "Rarity": "Uncommon",
@@ -4699,7 +4699,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda82"
+    "$oid": "661a2bd8aa68a93779e61fd6"
   },
   "Name": "Ring of Self Immolation",
   "Rarity": "Uncommon",
@@ -4713,7 +4713,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda83"
+    "$oid": "661a2bd8aa68a93779e61fd7"
   },
   "Name": "Ring of Shadows",
   "Rarity": "Uncommon",
@@ -4727,7 +4727,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda84"
+    "$oid": "661a2bd8aa68a93779e61fd8"
   },
   "Name": "Ring of Spiteful Thunder",
   "Rarity": "Uncommon",
@@ -4741,7 +4741,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda85"
+    "$oid": "661a2bd8aa68a93779e61fd9"
   },
   "Name": "Ring of Twilight",
   "Rarity": "Rare",
@@ -4755,7 +4755,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda86"
+    "$oid": "661a2bd8aa68a93779e61fda"
   },
   "Name": "Rippling Force Mail",
   "Rarity": "Rare",
@@ -4769,7 +4769,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda87"
+    "$oid": "661a2bd8aa68a93779e61fdb"
   },
   "Name": "Risky Ring",
   "Rarity": "Rare",
@@ -4783,7 +4783,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda88"
+    "$oid": "661a2bd8aa68a93779e61fdc"
   },
   "Name": "Ritual Dagger of Shar",
   "Rarity": "Uncommon",
@@ -4797,7 +4797,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda89"
+    "$oid": "661a2bd8aa68a93779e61fdd"
   },
   "Name": "Robe of Exquisite Focus",
   "Rarity": "Rare",
@@ -4811,7 +4811,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda8a"
+    "$oid": "661a2bd8aa68a93779e61fde"
   },
   "Name": "Selûne's Spear of Night",
   "Rarity": "Legendary",
@@ -4825,7 +4825,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda8b"
+    "$oid": "661a2bd8aa68a93779e61fdf"
   },
   "Name": "Sentinel Shield",
   "Rarity": "Rare",
@@ -4839,7 +4839,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda8c"
+    "$oid": "661a2bd8aa68a93779e61fe0"
   },
   "Name": "Shadeclinger Armour",
   "Rarity": "Rare",
@@ -4853,7 +4853,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda8d"
+    "$oid": "661a2bd8aa68a93779e61fe1"
   },
   "Name": "Shadow Blade Ring",
   "Rarity": "Uncommon",
@@ -4867,7 +4867,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda8e"
+    "$oid": "661a2bd8aa68a93779e61fe2"
   },
   "Name": "Shadow Lantern",
   "Rarity": "Rare",
@@ -4881,7 +4881,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda8f"
+    "$oid": "661a2bd8aa68a93779e61fe3"
   },
   "Name": "Shadow-Cloaked Ring",
   "Rarity": "Uncommon",
@@ -4895,7 +4895,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda90"
+    "$oid": "661a2bd8aa68a93779e61fe4"
   },
   "Name": "Shar’s Spear of Evening",
   "Rarity": "Legendary",
@@ -4909,7 +4909,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda91"
+    "$oid": "661a2bd8aa68a93779e61fe5"
   },
   "Name": "Shar's Temptation",
   "Rarity": "Uncommon",
@@ -4923,7 +4923,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda92"
+    "$oid": "661a2bd8aa68a93779e61fe6"
   },
   "Name": "Sharpened Snare Cuirass",
   "Rarity": "Very Rare",
@@ -4937,7 +4937,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda93"
+    "$oid": "661a2bd8aa68a93779e61fe7"
   },
   "Name": "Shield of Devotion",
   "Rarity": "Very Rare",
@@ -4951,7 +4951,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda94"
+    "$oid": "661a2bd8aa68a93779e61fe8"
   },
   "Name": "Shield of Scorching Reprisal",
   "Rarity": "Rare",
@@ -4965,7 +4965,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda95"
+    "$oid": "661a2bd8aa68a93779e61fe9"
   },
   "Name": "Shifting Corpus Ring",
   "Rarity": "Rare",
@@ -4979,7 +4979,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda96"
+    "$oid": "661a2bd8aa68a93779e61fea"
   },
   "Name": "Slicing Shortsword",
   "Rarity": "Rare",
@@ -4993,7 +4993,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda97"
+    "$oid": "661a2bd8aa68a93779e61feb"
   },
   "Name": "Snowburst Ring",
   "Rarity": "Uncommon",
@@ -5007,7 +5007,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda98"
+    "$oid": "661a2bd8aa68a93779e61fec"
   },
   "Name": "Spear of Night",
   "Rarity": "Rare",
@@ -5021,7 +5021,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda99"
+    "$oid": "661a2bd8aa68a93779e61fed"
   },
   "Name": "Spellcrux Amulet",
   "Rarity": "Very Rare",
@@ -5035,7 +5035,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda9a"
+    "$oid": "661a2bd8aa68a93779e61fee"
   },
   "Name": "Strange Tendril Amulet",
   "Rarity": "Rare",
@@ -5049,7 +5049,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda9b"
+    "$oid": "661a2bd8aa68a93779e61fef"
   },
   "Name": "Surgeon's Subjugation Amulet",
   "Rarity": "Rare",
@@ -5063,7 +5063,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda9c"
+    "$oid": "661a2bd8aa68a93779e61ff0"
   },
   "Name": "Sword of Clutching Umbra",
   "Rarity": "Rare",
@@ -5077,7 +5077,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda9d"
+    "$oid": "661a2bd8aa68a93779e61ff1"
   },
   "Name": "Sword of Life Stealing",
   "Rarity": "Very Rare",
@@ -5091,7 +5091,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda9e"
+    "$oid": "661a2bd8aa68a93779e61ff2"
   },
   "Name": "Swordmaster Gloves",
   "Rarity": "Rare",
@@ -5105,7 +5105,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bda9f"
+    "$oid": "661a2bd8aa68a93779e61ff3"
   },
   "Name": "Spineshudder Amulet",
   "Rarity": "Uncommon",
@@ -5119,7 +5119,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaa0"
+    "$oid": "661a2bd8aa68a93779e61ff4"
   },
   "Name": "Sylvan Scimitar",
   "Rarity": "Uncommon",
@@ -5133,7 +5133,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaa1"
+    "$oid": "661a2bd8aa68a93779e61ff5"
   },
   "Name": "The Graceful Cloth (Araj)",
   "Rarity": "Rare",
@@ -5147,7 +5147,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaa2"
+    "$oid": "661a2bd8aa68a93779e61ff6"
   },
   "Name": "The Mighty Cloth",
   "Rarity": "Rare",
@@ -5161,7 +5161,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaa3"
+    "$oid": "661a2bd8aa68a93779e61ff7"
   },
   "Name": "Thermoarcanic Gloves",
   "Rarity": "Uncommon",
@@ -5175,7 +5175,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaa4"
+    "$oid": "661a2bd8aa68a93779e61ff8"
   },
   "Name": "Thermodynamo Axe",
   "Rarity": "Rare",
@@ -5189,7 +5189,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaa5"
+    "$oid": "661a2bd8aa68a93779e61ff9"
   },
   "Name": "Thorn Blade",
   "Rarity": "Rare",
@@ -5203,7 +5203,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaa6"
+    "$oid": "661a2bd8aa68a93779e61ffa"
   },
   "Name": "Thunderskin Cloak",
   "Rarity": "Uncommon",
@@ -5217,7 +5217,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaa7"
+    "$oid": "661a2bd8aa68a93779e61ffb"
   },
   "Name": "True Love's Caress",
   "Rarity": "Rare",
@@ -5231,7 +5231,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaa8"
+    "$oid": "661a2bd8aa68a93779e61ffc"
   },
   "Name": "True Love's Embrace",
   "Rarity": "Rare",
@@ -5245,7 +5245,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaa9"
+    "$oid": "661a2bd8aa68a93779e61ffd"
   },
   "Name": "Twist of Fortune",
   "Rarity": "Rare",
@@ -5259,7 +5259,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaaa"
+    "$oid": "661a2bd8aa68a93779e61ffe"
   },
   "Name": "Vivacious Cloak",
   "Rarity": "Uncommon",
@@ -5273,7 +5273,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaab"
+    "$oid": "661a2bd8aa68a93779e61fff"
   },
   "Name": "Watcher's Shield",
   "Rarity": "Uncommon",
@@ -5287,7 +5287,7 @@
 },
 {
   "_id": {
-    "$oid": "66105507057521705c7bdaac"
+    "$oid": "661a2bd8aa68a93779e62000"
   },
   "Name": "Yuan-Ti Scale Mail",
   "Rarity": "Rare",
@@ -5301,7 +5301,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaad"
+    "$oid": "661a2c66aa68a93779e62001"
   },
   "Name": "Absolute Confidence Amulet",
   "Rarity": "Uncommon",
@@ -5315,7 +5315,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaae"
+    "$oid": "661a2c66aa68a93779e62002"
   },
   "Name": "After Death Do Us Part",
   "Rarity": "Rare",
@@ -5329,7 +5329,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaaf"
+    "$oid": "661a2c66aa68a93779e62003"
   },
   "Name": "Ambusher",
   "Rarity": "Rare",
@@ -5343,7 +5343,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdab0"
+    "$oid": "661a2c66aa68a93779e62004"
   },
   "Name": "Amulet of Bhaal",
   "Rarity": "Legendary",
@@ -5357,7 +5357,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdab1"
+    "$oid": "661a2c66aa68a93779e62005"
   },
   "Name": "Amulet of Greater Health",
   "Rarity": "Very Rare",
@@ -5371,7 +5371,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdab2"
+    "$oid": "661a2c66aa68a93779e62006"
   },
   "Name": "Amulet of the Devout",
   "Rarity": "Very Rare",
@@ -5385,7 +5385,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdab3"
+    "$oid": "661a2c66aa68a93779e62007"
   },
   "Name": "Amulet of the Drunkard",
   "Rarity": "Rare",
@@ -5399,7 +5399,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdab4"
+    "$oid": "661a2c66aa68a93779e62008"
   },
   "Name": "Amulet of Windrider",
   "Rarity": "Very Rare",
@@ -5413,7 +5413,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdab5"
+    "$oid": "661a2c66aa68a93779e62009"
   },
   "Name": "Armour of Agility",
   "Rarity": "Very Rare",
@@ -5427,7 +5427,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdab6"
+    "$oid": "661a2c66aa68a93779e6200a"
   },
   "Name": "Armour of Landfall",
   "Rarity": "Very Rare",
@@ -5441,7 +5441,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdab7"
+    "$oid": "661a2c66aa68a93779e6200b"
   },
   "Name": "Armour of Moonbasking",
   "Rarity": "Very Rare",
@@ -5455,7 +5455,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdab8"
+    "$oid": "661a2c66aa68a93779e6200c"
   },
   "Name": "Armour of Persistence",
   "Rarity": "Very Rare",
@@ -5469,7 +5469,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdab9"
+    "$oid": "661a2c66aa68a93779e6200d"
   },
   "Name": "Armour of the Sporekeeper",
   "Rarity": "Very Rare",
@@ -5483,7 +5483,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaba"
+    "$oid": "661a2c66aa68a93779e6200e"
   },
   "Name": "Assassin of Bhaal Cowl",
   "Rarity": "Very Rare",
@@ -5497,7 +5497,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdabb"
+    "$oid": "661a2c66aa68a93779e6200f"
   },
   "Name": "Balduran's Giantslayer",
   "Rarity": "Legendary",
@@ -5511,7 +5511,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdabc"
+    "$oid": "661a2c66aa68a93779e62010"
   },
   "Name": "Band of the Mystic Scoundrel",
   "Rarity": "Rare",
@@ -5525,7 +5525,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdabd"
+    "$oid": "661a2c66aa68a93779e62011"
   },
   "Name": "Belm",
   "Rarity": "Very Rare",
@@ -5539,7 +5539,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdabe"
+    "$oid": "661a2c66aa68a93779e62012"
   },
   "Name": "Bhaalist Armour",
   "Rarity": "Very Rare",
@@ -5553,7 +5553,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdabf"
+    "$oid": "661a2c66aa68a93779e62013"
   },
   "Name": "Bhaalist Gloves",
   "Rarity": "Very Rare",
@@ -5567,7 +5567,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdac0"
+    "$oid": "661a2c66aa68a93779e62014"
   },
   "Name": "Birthright",
   "Rarity": "Very Rare",
@@ -5581,7 +5581,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdac1"
+    "$oid": "661a2c66aa68a93779e62015"
   },
   "Name": "Blackguard's Gauntlets",
   "Rarity": "Rare",
@@ -5595,7 +5595,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdac2"
+    "$oid": "661a2c66aa68a93779e62016"
   },
   "Name": "Blackguard's Greaves",
   "Rarity": "Rare",
@@ -5609,7 +5609,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdac3"
+    "$oid": "661a2c66aa68a93779e62017"
   },
   "Name": "Blackguard's Plate",
   "Rarity": "Very Rare",
@@ -5623,7 +5623,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdac4"
+    "$oid": "661a2c66aa68a93779e62018"
   },
   "Name": "Blackguard's Sword",
   "Rarity": "Rare",
@@ -5637,7 +5637,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdac5"
+    "$oid": "661a2c66aa68a93779e62019"
   },
   "Name": "Blightbringer",
   "Rarity": "Very Rare",
@@ -5651,7 +5651,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdac6"
+    "$oid": "661a2c66aa68a93779e6201a"
   },
   "Name": "Bloodthirst",
   "Rarity": "Legendary",
@@ -5665,7 +5665,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdac7"
+    "$oid": "661a2c66aa68a93779e6201b"
   },
   "Name": "Bonespike Boots",
   "Rarity": "Very Rare",
@@ -5679,7 +5679,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdac8"
+    "$oid": "661a2c66aa68a93779e6201c"
   },
   "Name": "Bonespike Garb",
   "Rarity": "Very Rare",
@@ -5693,7 +5693,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdac9"
+    "$oid": "661a2c66aa68a93779e6201d"
   },
   "Name": "Bonespike Gloves",
   "Rarity": "Very Rare",
@@ -5707,7 +5707,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaca"
+    "$oid": "661a2c66aa68a93779e6201e"
   },
   "Name": "Bonespike Helmet",
   "Rarity": "Very Rare",
@@ -5721,7 +5721,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdacb"
+    "$oid": "661a2c66aa68a93779e6201f"
   },
   "Name": "Boots of Persistence",
   "Rarity": "Very Rare",
@@ -5735,7 +5735,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdacc"
+    "$oid": "661a2c66aa68a93779e62020"
   },
   "Name": "Boots of Psionic Movement",
   "Rarity": "Very Rare",
@@ -5749,7 +5749,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdacd"
+    "$oid": "661a2c66aa68a93779e62021"
   },
   "Name": "Boots of Uninhibited Kushigo",
   "Rarity": "Rare",
@@ -5763,7 +5763,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdace"
+    "$oid": "661a2c66aa68a93779e62022"
   },
   "Name": "Boots of Very Fast Blinking",
   "Rarity": "Uncommon",
@@ -5777,7 +5777,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdacf"
+    "$oid": "661a2c66aa68a93779e62023"
   },
   "Name": "Breaching Pikestaff",
   "Rarity": "Rare",
@@ -5791,7 +5791,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdad0"
+    "$oid": "661a2c66aa68a93779e62024"
   },
   "Name": "Caitiff Staff",
   "Rarity": "Rare",
@@ -5805,7 +5805,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdad1"
+    "$oid": "661a2c66aa68a93779e62025"
   },
   "Name": "Cerebral Citadel Armour",
   "Rarity": "Rare",
@@ -5819,7 +5819,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdad2"
+    "$oid": "661a2c66aa68a93779e62026"
   },
   "Name": "Cerebral Citadel Gloves",
   "Rarity": "Rare",
@@ -5833,7 +5833,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdad3"
+    "$oid": "661a2c66aa68a93779e62027"
   },
   "Name": "Cindermoth Cloak",
   "Rarity": "Uncommon",
@@ -5847,7 +5847,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdad4"
+    "$oid": "661a2c66aa68a93779e62028"
   },
   "Name": "Circlet of Fire",
   "Rarity": "Uncommon",
@@ -5861,7 +5861,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdad5"
+    "$oid": "661a2c66aa68a93779e62029"
   },
   "Name": "Cloak of Displacement",
   "Rarity": "Rare",
@@ -5875,7 +5875,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdad6"
+    "$oid": "661a2c66aa68a93779e6202a"
   },
   "Name": "Cloak of the Weave",
   "Rarity": "Very Rare",
@@ -5889,7 +5889,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdad7"
+    "$oid": "661a2c66aa68a93779e6202b"
   },
   "Name": "Cloth of Authority",
   "Rarity": "Rare",
@@ -5903,7 +5903,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdad8"
+    "$oid": "661a2c66aa68a93779e6202c"
   },
   "Name": "Clown Hammer",
   "Rarity": "Rare",
@@ -5917,7 +5917,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdad9"
+    "$oid": "661a2c66aa68a93779e6202d"
   },
   "Name": "Cold Snap",
   "Rarity": "Rare",
@@ -5931,7 +5931,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdada"
+    "$oid": "661a2c66aa68a93779e6202e"
   },
   "Name": "Corpsegrinder",
   "Rarity": "Rare",
@@ -5945,7 +5945,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdadb"
+    "$oid": "661a2c66aa68a93779e6202f"
   },
   "Name": "Corvid Token",
   "Rarity": "Very Rare",
@@ -5959,7 +5959,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdadc"
+    "$oid": "661a2c66aa68a93779e62030"
   },
   "Name": "Craterflesh Gloves",
   "Rarity": "Rare",
@@ -5973,7 +5973,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdadd"
+    "$oid": "661a2c66aa68a93779e62031"
   },
   "Name": "Crimson Mischief",
   "Rarity": "Legendary",
@@ -5987,7 +5987,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdade"
+    "$oid": "661a2c66aa68a93779e62032"
   },
   "Name": "Crypt Lord Ring",
   "Rarity": "Very Rare",
@@ -6001,7 +6001,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdadf"
+    "$oid": "661a2c66aa68a93779e62033"
   },
   "Name": "Dark Displacement Gloves",
   "Rarity": "Rare",
@@ -6015,7 +6015,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdae0"
+    "$oid": "661a2c66aa68a93779e62034"
   },
   "Name": "Despair of Athkatla",
   "Rarity": "Rare",
@@ -6029,7 +6029,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdae1"
+    "$oid": "661a2c66aa68a93779e62035"
   },
   "Name": "Devotee's Mace",
   "Rarity": "Legendary",
@@ -6043,7 +6043,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdae2"
+    "$oid": "661a2c66aa68a93779e62036"
   },
   "Name": "Djinni Ring",
   "Rarity": "Uncommon",
@@ -6057,7 +6057,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdae3"
+    "$oid": "661a2c66aa68a93779e62037"
   },
   "Name": "Dolor Amarus",
   "Rarity": "Rare",
@@ -6071,7 +6071,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdae4"
+    "$oid": "661a2c66aa68a93779e62038"
   },
   "Name": "Dread Iron Dagger",
   "Rarity": "Rare",
@@ -6085,7 +6085,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdae5"
+    "$oid": "661a2c66aa68a93779e62039"
   },
   "Name": "Drunken Cloth",
   "Rarity": "Rare",
@@ -6099,7 +6099,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdae6"
+    "$oid": "661a2c66aa68a93779e6203a"
   },
   "Name": "Duellist's Prerogative",
   "Rarity": "Legendary",
@@ -6113,7 +6113,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdae7"
+    "$oid": "661a2c66aa68a93779e6203b"
   },
   "Name": "Duke Ravengard's Longsword",
   "Rarity": "Rare",
@@ -6127,7 +6127,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdae8"
+    "$oid": "661a2c66aa68a93779e6203c"
   },
   "Name": "Dwarven Thrower",
   "Rarity": "Very Rare",
@@ -6141,7 +6141,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdae9"
+    "$oid": "661a2c66aa68a93779e6203d"
   },
   "Name": "Elegant Studded Leather",
   "Rarity": "Very Rare",
@@ -6155,7 +6155,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaea"
+    "$oid": "661a2c66aa68a93779e6203e"
   },
   "Name": "Elven Chain",
   "Rarity": "Rare",
@@ -6169,7 +6169,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaeb"
+    "$oid": "661a2c66aa68a93779e6203f"
   },
   "Name": "Emblazoned Plate of the Marshal",
   "Rarity": "Very Rare",
@@ -6183,7 +6183,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaec"
+    "$oid": "661a2c66aa68a93779e62040"
   },
   "Name": "Fabricated Arbalest",
   "Rarity": "Very Rare",
@@ -6197,7 +6197,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaed"
+    "$oid": "661a2c66aa68a93779e62041"
   },
   "Name": "Fey Semblance Amulet",
   "Rarity": "Very Rare",
@@ -6211,7 +6211,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaee"
+    "$oid": "661a2c66aa68a93779e62042"
   },
   "Name": "Flail of Ages",
   "Rarity": "Rare",
@@ -6225,7 +6225,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaef"
+    "$oid": "661a2c66aa68a93779e62043"
   },
   "Name": "Flame Enamelled Armour",
   "Rarity": "Very Rare",
@@ -6239,7 +6239,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaf0"
+    "$oid": "661a2c66aa68a93779e62044"
   },
   "Name": "Fleshrender",
   "Rarity": "Rare",
@@ -6253,7 +6253,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaf1"
+    "$oid": "661a2c66aa68a93779e62045"
   },
   "Name": "Foebreaker",
   "Rarity": "Very Rare",
@@ -6267,7 +6267,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaf2"
+    "$oid": "661a2c66aa68a93779e62046"
   },
   "Name": "Garb of the Land and Sky",
   "Rarity": "Rare",
@@ -6281,7 +6281,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaf3"
+    "$oid": "661a2c66aa68a93779e62047"
   },
   "Name": "Gauntlet of the Tyrant",
   "Rarity": "Very Rare",
@@ -6295,7 +6295,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaf4"
+    "$oid": "661a2c66aa68a93779e62048"
   },
   "Name": "Gauntlets of Hill Giant Strength",
   "Rarity": "Very Rare",
@@ -6309,7 +6309,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaf5"
+    "$oid": "661a2c66aa68a93779e62049"
   },
   "Name": "Gauntlets of the Warmaster",
   "Rarity": "Very Rare",
@@ -6323,7 +6323,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaf6"
+    "$oid": "661a2c66aa68a93779e6204a"
   },
   "Name": "Gemini Gloves",
   "Rarity": "Very Rare",
@@ -6337,7 +6337,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaf7"
+    "$oid": "661a2c66aa68a93779e6204b"
   },
   "Name": "Gibus of the Worshipful Servant\n",
   "Rarity": "Rare",
@@ -6351,7 +6351,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaf8"
+    "$oid": "661a2c66aa68a93779e6204c"
   },
   "Name": "Gleamdance Dagger",
   "Rarity": "Rare",
@@ -6365,7 +6365,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaf9"
+    "$oid": "661a2c66aa68a93779e6204d"
   },
   "Name": "Gloves of Soul Catching",
   "Rarity": "Legendary",
@@ -6379,7 +6379,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdafa"
+    "$oid": "661a2c66aa68a93779e6204e"
   },
   "Name": "Gontr Mael",
   "Rarity": "Legendary",
@@ -6393,7 +6393,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdafb"
+    "$oid": "661a2c66aa68a93779e6204f"
   },
   "Name": "Hammer of the Just",
   "Rarity": "Rare",
@@ -6407,7 +6407,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdafc"
+    "$oid": "661a2c66aa68a93779e62050"
   },
   "Name": "Handmaiden's Mace",
   "Rarity": "Very Rare",
@@ -6421,7 +6421,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdafd"
+    "$oid": "661a2c66aa68a93779e62051"
   },
   "Name": "Harmonic Dueller",
   "Rarity": "Rare",
@@ -6435,7 +6435,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdafe"
+    "$oid": "661a2c66aa68a93779e62052"
   },
   "Name": "Harper Sacredstriker",
   "Rarity": "Rare",
@@ -6449,7 +6449,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdaff"
+    "$oid": "661a2c66aa68a93779e62053"
   },
   "Name": "Hat of the Sharp Caster",
   "Rarity": "Rare",
@@ -6463,7 +6463,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb00"
+    "$oid": "661a2c66aa68a93779e62054"
   },
   "Name": "Hellbeard Halberd",
   "Rarity": "Rare",
@@ -6477,7 +6477,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb01"
+    "$oid": "661a2c66aa68a93779e62055"
   },
   "Name": "Helldusk Armour",
   "Rarity": "Legendary",
@@ -6491,7 +6491,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb02"
+    "$oid": "661a2c66aa68a93779e62056"
   },
   "Name": "Helldusk Boots",
   "Rarity": "Very Rare",
@@ -6505,7 +6505,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb03"
+    "$oid": "661a2c66aa68a93779e62057"
   },
   "Name": "Helldusk Gloves",
   "Rarity": "Very Rare",
@@ -6519,7 +6519,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb04"
+    "$oid": "661a2c66aa68a93779e62058"
   },
   "Name": "Helldusk Helmet",
   "Rarity": "Very Rare",
@@ -6533,7 +6533,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb05"
+    "$oid": "661a2c66aa68a93779e62059"
   },
   "Name": "Hellfire Engine Crossbow",
   "Rarity": "Very Rare",
@@ -6547,7 +6547,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb06"
+    "$oid": "661a2c66aa68a93779e6205a"
   },
   "Name": "Hellfire Greataxe",
   "Rarity": "Very Rare",
@@ -6561,7 +6561,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb07"
+    "$oid": "661a2c66aa68a93779e6205b"
   },
   "Name": "Hellrider Longbow",
   "Rarity": "Uncommon",
@@ -6575,7 +6575,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb08"
+    "$oid": "661a2c66aa68a93779e6205c"
   },
   "Name": "Helm of Balduran",
   "Rarity": "Legendary",
@@ -6589,7 +6589,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb09"
+    "$oid": "661a2c66aa68a93779e6205d"
   },
   "Name": "Helmet of Grit",
   "Rarity": "Very Rare",
@@ -6603,7 +6603,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb0a"
+    "$oid": "661a2c66aa68a93779e6205e"
   },
   "Name": "Hollow's Staff",
   "Rarity": "Rare",
@@ -6617,7 +6617,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb0b"
+    "$oid": "661a2c66aa68a93779e6205f"
   },
   "Name": "Hood of the Weave",
   "Rarity": "Very Rare",
@@ -6631,7 +6631,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb0c"
+    "$oid": "661a2c66aa68a93779e62060"
   },
   "Name": "Horns of the Berserker",
   "Rarity": "Very Rare",
@@ -6645,7 +6645,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb0d"
+    "$oid": "661a2c66aa68a93779e62061"
   },
   "Name": "Infernal Mace",
   "Rarity": "Rare",
@@ -6659,7 +6659,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb0e"
+    "$oid": "661a2c66aa68a93779e62062"
   },
   "Name": "Infernal Spear",
   "Rarity": "Rare",
@@ -6673,7 +6673,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb0f"
+    "$oid": "661a2c66aa68a93779e62063"
   },
   "Name": "Jannath's Hat",
   "Rarity": "Very Rare",
@@ -6687,7 +6687,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb10"
+    "$oid": "661a2c66aa68a93779e62064"
   },
   "Name": "Keepsake Ring",
   "Rarity": "Rare",
@@ -6701,7 +6701,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb11"
+    "$oid": "661a2c66aa68a93779e62065"
   },
   "Name": "Khalid's Gift",
   "Rarity": "Very Rare",
@@ -6715,7 +6715,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb12"
+    "$oid": "661a2c66aa68a93779e62066"
   },
   "Name": "Knock Knuckle Gloves",
   "Rarity": "Uncommon",
@@ -6729,7 +6729,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb13"
+    "$oid": "661a2c66aa68a93779e62067"
   },
   "Name": "Kurwin's Cauteriser",
   "Rarity": "Uncommon",
@@ -6743,7 +6743,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb14"
+    "$oid": "661a2c66aa68a93779e62068"
   },
   "Name": "Legacy of the Masters",
   "Rarity": "Very Rare",
@@ -6757,7 +6757,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb15"
+    "$oid": "661a2c66aa68a93779e62069"
   },
   "Name": "Magic Amulet",
   "Rarity": "Rare",
@@ -6771,7 +6771,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb16"
+    "$oid": "661a2c66aa68a93779e6206a"
   },
   "Name": "Mantle of the Holy Warrior",
   "Rarity": "Very Rare",
@@ -6785,7 +6785,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb17"
+    "$oid": "661a2c66aa68a93779e6206b"
   },
   "Name": "Markoheshkir",
   "Rarity": "Legendary",
@@ -6799,7 +6799,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb18"
+    "$oid": "661a2c66aa68a93779e6206c"
   },
   "Name": "Martial Exertion Gloves",
   "Rarity": "Rare",
@@ -6813,7 +6813,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb19"
+    "$oid": "661a2c66aa68a93779e6206d"
   },
   "Name": "Mask of Soul Perception",
   "Rarity": "Very Rare",
@@ -6827,7 +6827,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb1a"
+    "$oid": "661a2c66aa68a93779e6206e"
   },
   "Name": "Murderous Cut",
   "Rarity": "Uncommon",
@@ -6841,7 +6841,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb1b"
+    "$oid": "661a2c66aa68a93779e6206f"
   },
   "Name": "Nimblefinger Gloves",
   "Rarity": "Rare",
@@ -6855,7 +6855,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb1c"
+    "$oid": "661a2c66aa68a93779e62070"
   },
   "Name": "Nymph Cloak",
   "Rarity": "Very Rare",
@@ -6869,7 +6869,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb1d"
+    "$oid": "661a2c66aa68a93779e62071"
   },
   "Name": "Nyrulna",
   "Rarity": "Legendary",
@@ -6883,7 +6883,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb1e"
+    "$oid": "661a2c66aa68a93779e62072"
   },
   "Name": "Orphic Hammer",
   "Rarity": "Legendary",
@@ -6897,7 +6897,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb1f"
+    "$oid": "661a2c66aa68a93779e62073"
   },
   "Name": "Orphic Ring",
   "Rarity": "Very Rare",
@@ -6911,7 +6911,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb20"
+    "$oid": "661a2c66aa68a93779e62074"
   },
   "Name": "Pelorsun Blade",
   "Rarity": "Very Rare",
@@ -6925,7 +6925,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb21"
+    "$oid": "661a2c66aa68a93779e62075"
   },
   "Name": "Pyroquickness Hat",
   "Rarity": "Very Rare",
@@ -6939,7 +6939,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb22"
+    "$oid": "661a2c66aa68a93779e62076"
   },
   "Name": "Quickspell Gloves",
   "Rarity": "Very Rare",
@@ -6953,7 +6953,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb23"
+    "$oid": "661a2c66aa68a93779e62077"
   },
   "Name": "Ravengard's Scourger",
   "Rarity": "Rare",
@@ -6967,7 +6967,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb24"
+    "$oid": "661a2c66aa68a93779e62078"
   },
   "Name": "Reverse Rain Cloak",
   "Rarity": "Uncommon",
@@ -6981,7 +6981,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb25"
+    "$oid": "661a2c66aa68a93779e62079"
   },
   "Name": "Rhapsody",
   "Rarity": "Very Rare",
@@ -6995,7 +6995,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb26"
+    "$oid": "661a2c66aa68a93779e6207a"
   },
   "Name": "Ring of Blink",
   "Rarity": "Rare",
@@ -7009,7 +7009,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb27"
+    "$oid": "661a2c66aa68a93779e6207b"
   },
   "Name": "Ring of Feywild Sparks",
   "Rarity": "Very Rare",
@@ -7023,7 +7023,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb28"
+    "$oid": "661a2c66aa68a93779e6207c"
   },
   "Name": "Ring Of Regeneration",
   "Rarity": "Very Rare",
@@ -7037,7 +7037,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb29"
+    "$oid": "661a2c66aa68a93779e6207d"
   },
   "Name": "Ring of Truthfulness",
   "Rarity": "Rare",
@@ -7051,7 +7051,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb2a"
+    "$oid": "661a2c66aa68a93779e6207e"
   },
   "Name": "Robe of Supreme Defences",
   "Rarity": "Very Rare",
@@ -7065,7 +7065,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb2b"
+    "$oid": "661a2c66aa68a93779e6207f"
   },
   "Name": "Robe of the Weave",
   "Rarity": "Very Rare",
@@ -7079,7 +7079,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb2c"
+    "$oid": "661a2c66aa68a93779e62080"
   },
   "Name": "Sarevok's Horned Helmet",
   "Rarity": "Very Rare",
@@ -7093,7 +7093,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb2d"
+    "$oid": "661a2c66aa68a93779e62081"
   },
   "Name": "Scabby Pugilist Circlet",
   "Rarity": "Rare",
@@ -7107,7 +7107,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb2e"
+    "$oid": "661a2c66aa68a93779e62082"
   },
   "Name": "Scarlet Leather Armour",
   "Rarity": "Uncommon",
@@ -7121,7 +7121,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb2f"
+    "$oid": "661a2c66aa68a93779e62083"
   },
   "Name": "Seemingly Gleaming Ring",
   "Rarity": "Uncommon",
@@ -7135,7 +7135,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb30"
+    "$oid": "661a2c66aa68a93779e62084"
   },
   "Name": "Sentient Amulet (Very Rare)",
   "Rarity": "Very Rare",
@@ -7149,7 +7149,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb31"
+    "$oid": "661a2c66aa68a93779e62085"
   },
   "Name": "Seraphic Pugilist Gloves",
   "Rarity": "Rare",
@@ -7163,7 +7163,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb32"
+    "$oid": "661a2c66aa68a93779e62086"
   },
   "Name": "Servitor of the Black Hand Gloves",
   "Rarity": "Rare",
@@ -7177,7 +7177,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb33"
+    "$oid": "661a2c66aa68a93779e62087"
   },
   "Name": "Sethan",
   "Rarity": "Very Rare",
@@ -7191,7 +7191,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb34"
+    "$oid": "661a2c66aa68a93779e62088"
   },
   "Name": "Shade-Slayer Cloak",
   "Rarity": "Very Rare",
@@ -7205,7 +7205,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb35"
+    "$oid": "661a2c66aa68a93779e62089"
   },
   "Name": "Shapeshifter Hat",
   "Rarity": "Very Rare",
@@ -7219,7 +7219,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb36"
+    "$oid": "661a2c66aa68a93779e6208a"
   },
   "Name": "Shelter of Athkatla",
   "Rarity": "Rare",
@@ -7233,7 +7233,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb37"
+    "$oid": "661a2c66aa68a93779e6208b"
   },
   "Name": "Shield (Hope)",
   "Rarity": "Very Rare",
@@ -7247,7 +7247,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb38"
+    "$oid": "661a2c66aa68a93779e6208c"
   },
   "Name": "Shield of Shielding",
   "Rarity": "Rare",
@@ -7261,7 +7261,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb39"
+    "$oid": "661a2c66aa68a93779e6208d"
   },
   "Name": "Shield of the Undevout",
   "Rarity": "Very Rare",
@@ -7275,7 +7275,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb3a"
+    "$oid": "661a2c66aa68a93779e6208e"
   },
   "Name": "Silver Sword of the Astral Plane",
   "Rarity": "Legendary",
@@ -7289,7 +7289,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb3b"
+    "$oid": "661a2c66aa68a93779e6208f"
   },
   "Name": "Slinging Shoes",
   "Rarity": "Rare",
@@ -7303,7 +7303,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb3c"
+    "$oid": "661a2c66aa68a93779e62090"
   },
   "Name": "Snow-Dusted Monastery Gloves",
   "Rarity": "Rare",
@@ -7317,7 +7317,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb3d"
+    "$oid": "661a2c66aa68a93779e62091"
   },
   "Name": "Spaceshunt Boots",
   "Rarity": "Rare",
@@ -7331,7 +7331,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb3e"
+    "$oid": "661a2c66aa68a93779e62092"
   },
   "Name": "Spell Savant Amulet",
   "Rarity": "Rare",
@@ -7345,7 +7345,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb3f"
+    "$oid": "661a2c66aa68a93779e62093"
   },
   "Name": "Spellmight Gloves",
   "Rarity": "Very Rare",
@@ -7359,7 +7359,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb40"
+    "$oid": "661a2c66aa68a93779e62094"
   },
   "Name": "Spellseeking Gloves",
   "Rarity": "Rare",
@@ -7373,7 +7373,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb41"
+    "$oid": "661a2c66aa68a93779e62095"
   },
   "Name": "Staff of a Mumbling Wizard",
   "Rarity": "Uncommon",
@@ -7387,7 +7387,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb42"
+    "$oid": "661a2c66aa68a93779e62096"
   },
   "Name": "Staff of Cherished Necromancy",
   "Rarity": "Very Rare",
@@ -7401,7 +7401,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb43"
+    "$oid": "661a2c66aa68a93779e62097"
   },
   "Name": "Staff of Interruption",
   "Rarity": "Rare",
@@ -7415,7 +7415,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb44"
+    "$oid": "661a2c66aa68a93779e62098"
   },
   "Name": "Staff of Spellpower",
   "Rarity": "Very Rare",
@@ -7429,7 +7429,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb45"
+    "$oid": "661a2c66aa68a93779e62099"
   },
   "Name": "Staff of the Emperor",
   "Rarity": "Rare",
@@ -7443,7 +7443,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb46"
+    "$oid": "661a2c66aa68a93779e6209a"
   },
   "Name": "Staff of the Ram",
   "Rarity": "Very Rare",
@@ -7457,7 +7457,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb47"
+    "$oid": "661a2c66aa68a93779e6209b"
   },
   "Name": "Stalker Gloves",
   "Rarity": "Rare",
@@ -7471,7 +7471,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb48"
+    "$oid": "661a2c66aa68a93779e6209c"
   },
   "Name": "Steelwatcher Helmet",
   "Rarity": "Rare",
@@ -7485,7 +7485,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb49"
+    "$oid": "661a2c66aa68a93779e6209d"
   },
   "Name": "Stillmaker",
   "Rarity": "Very Rare",
@@ -7499,7 +7499,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb4a"
+    "$oid": "661a2c66aa68a93779e6209e"
   },
   "Name": "Swires' Sledboard",
   "Rarity": "Very Rare",
@@ -7513,7 +7513,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb4b"
+    "$oid": "661a2c66aa68a93779e6209f"
   },
   "Name": "Sword of Chaos",
   "Rarity": "Very Rare",
@@ -7527,7 +7527,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb4c"
+    "$oid": "661a2c66aa68a93779e620a0"
   },
   "Name": "Sword of the Emperor",
   "Rarity": "Rare",
@@ -7541,7 +7541,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb4d"
+    "$oid": "661a2c66aa68a93779e620a1"
   },
   "Name": "The Dancing Breeze",
   "Rarity": "Very Rare",
@@ -7555,7 +7555,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb4e"
+    "$oid": "661a2c66aa68a93779e620a2"
   },
   "Name": "The Dead Shot",
   "Rarity": "Very Rare",
@@ -7569,7 +7569,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb4f"
+    "$oid": "661a2c66aa68a93779e620a3"
   },
   "Name": "The Long Arm of the Gur",
   "Rarity": "Rare",
@@ -7583,7 +7583,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb50"
+    "$oid": "661a2c66aa68a93779e620a4"
   },
   "Name": "The Pointy Hat",
   "Rarity": "Rare",
@@ -7597,7 +7597,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb51"
+    "$oid": "661a2c66aa68a93779e620a5"
   },
   "Name": "The Reviving Hands",
   "Rarity": "Very Rare",
@@ -7611,7 +7611,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb52"
+    "$oid": "661a2c66aa68a93779e620a6"
   },
   "Name": "The Sacred Star",
   "Rarity": "Very Rare",
@@ -7625,7 +7625,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb53"
+    "$oid": "661a2c66aa68a93779e620a7"
   },
   "Name": "The Undead Bane",
   "Rarity": "Uncommon",
@@ -7639,7 +7639,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb54"
+    "$oid": "661a2c66aa68a93779e620a8"
   },
   "Name": "Thunderpalm Strikers",
   "Rarity": "Rare",
@@ -7653,7 +7653,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb55"
+    "$oid": "661a2c66aa68a93779e620a9"
   },
   "Name": "Til Death Do Us Part",
   "Rarity": "Rare",
@@ -7667,7 +7667,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb56"
+    "$oid": "661a2c66aa68a93779e620aa"
   },
   "Name": "Torch of Revocation",
   "Rarity": "Very Rare",
@@ -7681,7 +7681,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb57"
+    "$oid": "661a2c66aa68a93779e620ab"
   },
   "Name": "Trident of the Waves",
   "Rarity": "Very Rare",
@@ -7695,7 +7695,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb58"
+    "$oid": "661a2c66aa68a93779e620ac"
   },
   "Name": "Tyrannical Jackboots",
   "Rarity": "Uncommon",
@@ -7709,7 +7709,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb59"
+    "$oid": "661a2c66aa68a93779e620ad"
   },
   "Name": "Unflinching Protector Amulet",
   "Rarity": "Very Rare",
@@ -7723,7 +7723,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb5a"
+    "$oid": "661a2c66aa68a93779e620ae"
   },
   "Name": "Unlucky Thief's Gloves",
   "Rarity": "Uncommon",
@@ -7737,7 +7737,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb5b"
+    "$oid": "661a2c66aa68a93779e620af"
   },
   "Name": "Unwanted Masterwork Gauntlets",
   "Rarity": "Rare",
@@ -7751,7 +7751,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb5c"
+    "$oid": "661a2c66aa68a93779e620b0"
   },
   "Name": "Unwanted Masterwork Greaves",
   "Rarity": "Rare",
@@ -7765,7 +7765,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb5d"
+    "$oid": "661a2c66aa68a93779e620b1"
   },
   "Name": "Unwanted Masterwork Scalemail",
   "Rarity": "Rare",
@@ -7779,7 +7779,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb5e"
+    "$oid": "661a2c66aa68a93779e620b2"
   },
   "Name": "Veil of the Morning",
   "Rarity": "Very Rare",
@@ -7793,7 +7793,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb5f"
+    "$oid": "661a2c66aa68a93779e620b3"
   },
   "Name": "Vest of Soul Rejuvenation",
   "Rarity": "Very Rare",
@@ -7807,7 +7807,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb60"
+    "$oid": "661a2c66aa68a93779e620b4"
   },
   "Name": "Vicious Battleaxe",
   "Rarity": "Rare",
@@ -7821,7 +7821,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb61"
+    "$oid": "661a2c66aa68a93779e620b5"
   },
   "Name": "Vicious Shortbow",
   "Rarity": "Rare",
@@ -7835,7 +7835,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb62"
+    "$oid": "661a2c66aa68a93779e620b6"
   },
   "Name": "Viconia's Priestess Robe",
   "Rarity": "Rare",
@@ -7849,7 +7849,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb63"
+    "$oid": "661a2c66aa68a93779e620b7"
   },
   "Name": "Viconia's Walking Fortress",
   "Rarity": "Legendary",
@@ -7863,7 +7863,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb64"
+    "$oid": "661a2c66aa68a93779e620b8"
   },
   "Name": "Voss' Silver Sword",
   "Rarity": "Very Rare",
@@ -7877,7 +7877,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb65"
+    "$oid": "661a2c66aa68a93779e620b9"
   },
   "Name": "Wavemother's Cloak",
   "Rarity": "Rare",
@@ -7891,7 +7891,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb66"
+    "$oid": "661a2c66aa68a93779e620ba"
   },
   "Name": "Wavemother's Robe",
   "Rarity": "Very Rare",
@@ -7905,7 +7905,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb67"
+    "$oid": "661a2c66aa68a93779e620bb"
   },
   "Name": "Wavemother's Sickle",
   "Rarity": "Rare",
@@ -7919,7 +7919,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb68"
+    "$oid": "661a2c66aa68a93779e620bc"
   },
   "Name": "Winkling Gloves",
   "Rarity": "Rare",
@@ -7933,7 +7933,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb69"
+    "$oid": "661a2c66aa68a93779e620bd"
   },
   "Name": "Burnished Ring",
   "Rarity": "Very Rare",
@@ -7947,7 +7947,7 @@
 },
 {
   "_id": {
-    "$oid": "66105592057521705c7bdb6a"
+    "$oid": "661a2c66aa68a93779e620be"
   },
   "Name": "Woe",
   "Rarity": "Very Rare",

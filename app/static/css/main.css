@@ -3,6 +3,11 @@ body {
     overflow: hidden;
 }
 
+.btn-pri-color {
+    background-color: #1b1b1d;
+    color: white;
+}
+
 .navbar {
     background-color: #292d3e;
 }
