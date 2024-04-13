@@ -4,7 +4,7 @@ The original data was pulled from the [Google Sheet](https://docs.google.com/spr
 
 The image URLs are all scraped from the [BG3 Wiki](https://bg3.wiki/)
 
-If you want just the JSON, [it can be found here]([https://raw.githubusercontent.com/brett-jpy/bg3items/main/unused/BG3_items.json](https://raw.githubusercontent.com/brett-jpy/bg3items/main/unused/BG3.items.json))
+If you want just the JSON, [it can be found here](https://raw.githubusercontent.com/brett-jpy/bg3items/main/unused/BG3.items.json)
 
 ## Projects Used
 
